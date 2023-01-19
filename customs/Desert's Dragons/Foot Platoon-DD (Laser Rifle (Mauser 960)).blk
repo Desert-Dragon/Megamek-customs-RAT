@@ -1,0 +1,84 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Infantry
+</UnitType>
+
+<Name>
+Foot Platoon-DD
+</Name>
+
+<Model>
+(Laser Rifle (Mauser 960))
+</Model>
+
+<year>
+3028
+</year>
+
+<originalBuildYear>
+3028
+</originalBuildYear>
+
+<type>
+IS Level 4
+</type>
+
+<motion_type>
+Leg
+</motion_type>
+
+<transporters>
+</transporters>
+
+<Field Guns Equipment>
+</Field Guns Equipment>
+
+<source>
+Total Warfare - Succession Wars
+</source>
+
+<squad_size>
+10
+</squad_size>
+
+<squadn>
+3
+</squadn>
+
+<secondn>
+1
+</secondn>
+
+<Primary>
+Laser Rifle (Mauser 960)
+</Primary>
+
+<Secondary>
+Particle Cannon (Support)
+</Secondary>
+
+<antimek>
+5
+</antimek>
+
+<armorKit>
+Ballistic Plate, Standard
+</armorKit>
+
+<armordivisor>
+2.0
+</armordivisor>
+
+<encumberingarmor>
+true
+</encumberingarmor>
+
