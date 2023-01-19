@@ -1,0 +1,1 @@
+start MegaMek.exe -editratgen
