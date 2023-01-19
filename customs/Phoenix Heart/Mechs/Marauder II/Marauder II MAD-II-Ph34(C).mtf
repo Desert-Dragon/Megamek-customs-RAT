@@ -1,0 +1,154 @@
+Version:1.0
+Marauder II
+MAD-II-Ph34(C)
+
+Config:Biped
+techbase:Mixed (Clan Chassis)
+era:3073
+source:Clan Invasion
+rules level:4
+
+mass:100
+engine:300 Fusion (Clan) Engine
+structure:IS Standard
+myomer:Standard
+
+heat sinks:26 Clan Double
+walk mp:3
+jump mp:3
+
+armor:Hardened(Inner Sphere)
+LA armor:30
+RA armor:30
+LT armor:28
+RT armor:28
+CT armor:42
+HD armor:9
+LL armor:37
+RL armor:37
+RTL armor:9
+RTR armor:9
+RTC armor:13
+
+Weapons:7
+Improved Heavy Medium Laser, Right Arm
+Improved Heavy Medium Laser, Right Arm
+Improved Heavy Medium Laser, Right Arm
+Improved Heavy Medium Laser, Right Arm
+Improved Heavy Medium Laser, Left Arm
+Improved Heavy Medium Laser, Left Arm
+Improved Heavy Medium Laser, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+CLImprovedMediumHeavyLaser
+CLImprovedMediumHeavyLaser
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLImprovedMediumHeavyLaser
+CLImprovedMediumHeavyLaser
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLImprovedMediumHeavyLaser
+CLImprovedMediumHeavyLaser
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+CLImprovedMediumHeavyLaser
+CLImprovedMediumHeavyLaser
+CLImprovedMediumHeavyLaser
+CLImprovedMediumHeavyLaser
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLImprovedMediumHeavyLaser
+CLImprovedMediumHeavyLaser
+CLImprovedMediumHeavyLaser
+CLImprovedMediumHeavyLaser
+
+Left Torso:
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+Jump Jet
+-Empty-
+
+Right Torso:
+CLTargeting Computer
+CLTargeting Computer
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+Jump Jet
+Jump Jet
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLDoubleHeatSink
+CLDoubleHeatSink
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

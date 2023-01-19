@@ -1,0 +1,158 @@
+Version:1.1
+Marauder
+MAD C-Ph Mk II
+
+Config:Biped
+techbase:Mixed (IS Chassis)
+era:3055
+source:Clan Invasion
+rules level:4
+
+mass:75
+engine:300 XL (Clan) Engine
+structure:Clan Endo Steel
+myomer:Standard
+cockpit:Standard Cockpit
+gyro:Compact Gyro
+
+heat sinks:16 Clan Double
+walk mp:4
+jump mp:4
+
+armor:Ferro-Fibrous(Clan)
+LA armor:24
+RA armor:24
+LT armor:25
+RT armor:25
+CT armor:34
+HD armor:9
+LL armor:32
+RL armor:32
+RTL armor:7
+RTR armor:7
+RTC armor:11
+
+Weapons:9
+Medium Pulse Laser, Left Arm
+Medium Pulse Laser, Left Arm
+Medium Pulse Laser, Left Arm
+Medium Pulse Laser, Right Arm
+Medium Pulse Laser, Right Arm
+Medium Pulse Laser, Right Arm
+TAG, Right Arm
+Anti-Missile System, Head
+Ultra AC/10, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+Clan Endo Steel
+Clan Endo Steel
+Clan Ferro-Fibrous
+Clan Ferro-Fibrous
+Clan Ferro-Fibrous
+Clan Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+ISTAG
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+Clan Ferro-Fibrous
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Clan Endo Steel
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+ISCASE
+ISAMS Ammo
+Clan Ultra AC/10 Ammo
+Clan Ultra AC/10 Ammo
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+CLUltraAC10
+CLUltraAC10
+CLUltraAC10
+CLUltraAC10
+CLDoubleHeatSink
+CLDoubleHeatSink
+Clan Ferro-Fibrous
+Clan Ferro-Fibrous
+Jump Jet
+Jump Jet
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLDoubleHeatSink
+CLDoubleHeatSink
+Jump Jet
+Jump Jet
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISAntiMissileSystem
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

@@ -1,0 +1,118 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Behemoth II Heavy Tank
+</Name>
+
+<Model>
+C-Ph iATM Mk I
+</Model>
+
+<year>
+3102
+</year>
+
+<originalBuildYear>
+3102
+</originalBuildYear>
+
+<type>
+Mixed (IS Chassis) Advanced
+</type>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<transporters>
+</transporters>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<engine_type>
+2
+</engine_type>
+
+<armor_type>
+4
+</armor_type>
+
+<armor_tech>
+5
+</armor_tech>
+
+<armor>
+38
+30
+30
+24
+30
+</armor>
+
+<Body Equipment>
+SponsonTurret
+ISCASE
+Clan Ammo SRM-4 (Clan) Smoke
+Clan Ammo SRM-4
+Clan Ammo iATM-12 ER
+Clan Ammo iATM-12 ER
+Clan Ammo iATM-12 ER
+Clan Ammo iATM-12 ER
+Clan Ammo iATM-12 HE
+Clan Ammo iATM-12 HE
+Clan Ammo iATM-12 HE
+Clan Ammo iATM-12 HE
+Clan Ammo iATM-12
+Clan Ammo iATM-12
+Clan Ammo iATM-12
+Clan Ammo iATM-12
+CLAMS Ammo
+CLECMSuite
+CLLightActiveProbe
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+CLSRM4(ST)
+CLAntiMissileSystem(ST)
+</Right Equipment>
+
+<Left Equipment>
+CLSRM4(ST)
+CLAntiMissileSystem(ST)
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+CLiATM12
+CLiATM12
+CLiATM12
+CLiATM12
+</Turret Equipment>
+
+<source>
+PhoenixHeart
+</source>
+
+<tonnage>
+100.0
+</tonnage>
+

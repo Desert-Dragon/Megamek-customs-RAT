@@ -1,0 +1,153 @@
+Version:1.1
+Trebaruna
+C-Ph Mk II
+
+Config:Quad
+techbase:Mixed (IS Chassis)
+era:3081
+source:PhoenixHeart
+rules level:4
+
+mass:95
+engine:285 XL (Clan) Engine
+structure:IS Endo-Composite
+myomer:Standard
+cockpit:Standard Cockpit
+gyro:Compact Gyro
+
+heat sinks:10 IS Double
+walk mp:3
+jump mp:3
+
+armor:Hardened(Inner Sphere)
+FLL armor:24
+FRL armor:24
+LT armor:21
+RT armor:21
+CT armor:28
+HD armor:9
+RLL armor:24
+RRL armor:24
+RTL armor:6
+RTR armor:6
+RTC armor:9
+
+Weapons:4
+Ultra AC/10, Center Torso
+Ultra AC/10, Right Torso
+Ultra AC/10, Left Torso
+Laser AMS, Left Torso
+
+Front Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Endo-Composite
+IS Endo-Composite
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Front Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Endo-Composite
+IS Endo-Composite
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+CLUltraAC10
+CLUltraAC10
+CLUltraAC10
+CLUltraAC10
+ISCASEII
+Clan Ultra AC/10 Ammo
+Clan Ultra AC/10 Ammo
+Clan Ultra AC/10 Ammo
+Clan Ultra AC/10 Ammo
+CLLaserAntiMissileSystem
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+CLUltraAC10
+CLUltraAC10
+CLUltraAC10
+CLUltraAC10
+ISCASEII
+Clan Ultra AC/10 Ammo
+Clan Ultra AC/10 Ammo
+Clan Ultra AC/10 Ammo
+Clan Ultra AC/10 Ammo
+IS Endo-Composite
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLUltraAC10
+CLUltraAC10
+CLUltraAC10
+CLUltraAC10
+
+Head:
+Life Support
+Sensors
+Cockpit
+IS Endo-Composite
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Rear Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+IS Endo-Composite
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Rear Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

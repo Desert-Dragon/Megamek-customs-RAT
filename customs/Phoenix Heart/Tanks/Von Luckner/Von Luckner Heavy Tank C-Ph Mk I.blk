@@ -1,0 +1,115 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Von Luckner Heavy Tank
+</Name>
+
+<Model>
+C-Ph Mk I
+</Model>
+
+<mul id:>
+3454
+</mul id:>
+
+<year>
+3150
+</year>
+
+<originalBuildYear>
+3150
+</originalBuildYear>
+
+<type>
+Mixed (IS Chassis) Experimental
+</type>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<transporters>
+</transporters>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<engine_type>
+2
+</engine_type>
+
+<armor_type>
+6
+</armor_type>
+
+<armor_tech>
+1
+</armor_tech>
+
+<armor>
+71
+57
+57
+45
+57
+</armor>
+
+<Body Equipment>
+ISTargeting Computer
+ISCASE
+Clan Ultra AC/20 Ammo
+Clan Ultra AC/20 Ammo
+Clan Ultra AC/20 Ammo
+Clan Ultra AC/20 Ammo
+Clan Ultra AC/20 Ammo
+SponsonTurret
+Clan Ammo SRM-4 (Clan) Smoke
+Clan Ammo SRM-4
+CLArmoredMotiveSystem
+CLAMS Ammo
+Clan Ammo SRM-6
+</Body Equipment>
+
+<Front Equipment>
+CLAntiMissileSystem
+</Front Equipment>
+
+<Right Equipment>
+CLSRM4(ST)
+</Right Equipment>
+
+<Left Equipment>
+CLSRM4(ST)
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+CLUltraAC20
+CLERMediumLaser
+CLERMediumLaser
+CLSRM6
+</Turret Equipment>
+
+<source>
+Civil War
+</source>
+
+<tonnage>
+75.0
+</tonnage>
+

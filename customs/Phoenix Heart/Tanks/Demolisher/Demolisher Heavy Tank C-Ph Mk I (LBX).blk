@@ -1,0 +1,106 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Demolisher Heavy Tank
+</Name>
+
+<Model>
+C-Ph Mk I (LBX)
+</Model>
+
+<year>
+3070
+</year>
+
+<originalBuildYear>
+3070
+</originalBuildYear>
+
+<type>
+Mixed (IS Chassis) Experimental
+</type>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<transporters>
+</transporters>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<engine_type>
+2
+</engine_type>
+
+<armor_type>
+6
+</armor_type>
+
+<armor_tech>
+1
+</armor_tech>
+
+<armor>
+68
+55
+55
+44
+55
+</armor>
+
+<Body Equipment>
+CLArmoredMotiveSystem
+Clan Ammo SRM-4 (Clan) Smoke
+SponsonTurret
+Clan Ammo SRM-4
+ISCASE
+Clan LB 20-X Cluster Ammo
+Clan LB 20-X Cluster Ammo
+Clan LB 20-X Cluster Ammo
+Clan LB 20-X AC Ammo
+Clan LB 20-X AC Ammo
+</Body Equipment>
+
+<Front Equipment>
+CLAntiMissileSystem
+</Front Equipment>
+
+<Right Equipment>
+CLSRM4(ST)
+</Right Equipment>
+
+<Left Equipment>
+CLSRM4(ST)
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+CLLBXAC20
+CLLBXAC20
+</Turret Equipment>
+
+<source>
+TRO 3039 - Succession Wars
+</source>
+
+<tonnage>
+80.0
+</tonnage>
+

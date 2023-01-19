@@ -1,0 +1,103 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Patton Tank
+</Name>
+
+<Model>
+C-Ph LTC Mk I
+</Model>
+
+<year>
+3065
+</year>
+
+<originalBuildYear>
+3065
+</originalBuildYear>
+
+<type>
+Mixed (IS Chassis) Experimental
+</type>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<transporters>
+</transporters>
+
+<cruiseMP>
+4
+</cruiseMP>
+
+<engine_type>
+2
+</engine_type>
+
+<armor_type>
+6
+</armor_type>
+
+<armor_tech>
+5
+</armor_tech>
+
+<armor>
+59
+47
+47
+38
+47
+</armor>
+
+<Body Equipment>
+ISCASE
+Clan Ammo SRM-4 (Clan) Smoke
+Clan Ammo SRM-4
+SponsonTurret
+ISLongTomCannonAmmo
+ISLongTomCannonAmmo
+ISLongTomCannonAmmo
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+CLSRM4(ST)
+</Right Equipment>
+
+<Left Equipment>
+CLSRM4(ST)
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+CLERMediumLaser
+CLERMediumLaser
+ISLongTomCannon
+</Turret Equipment>
+
+<source>
+Civil War
+</source>
+
+<tonnage>
+65.0
+</tonnage>
+

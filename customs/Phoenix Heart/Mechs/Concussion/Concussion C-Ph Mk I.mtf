@@ -1,0 +1,153 @@
+Version:1.0
+Concussion
+C-Ph Mk I
+
+Config:Biped
+techbase:Clan
+era:3063
+rules level:3
+
+mass:100
+engine:300 XL (Clan) Engine(IS)
+structure:IS Standard
+myomer:Standard
+
+heat sinks:18 Clan Double
+walk mp:3
+jump mp:0
+
+armor:Standard(Inner Sphere)
+LA armor:33
+RA armor:33
+LT armor:32
+RT armor:32
+CT armor:46
+HD armor:9
+LL armor:42
+RL armor:42
+RTL armor:10
+RTR armor:10
+RTC armor:15
+
+Weapons:7
+Gauss Rifle, Right Torso
+Gauss Rifle, Left Torso
+LRM 10, Right Arm
+LRM 10, Left Arm
+ER Large Laser, Right Arm
+ER Large Laser, Left Arm
+Anti-Missile System, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLERLargeLaser
+CLLRM10
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLERLargeLaser
+CLLRM10
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+Clan Gauss Ammo
+-Empty-
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+Clan Ammo LRM-10
+Clan Ammo LRM-10
+CLCASEII
+Clan Gauss Ammo
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+Clan Ammo LRM-10
+Clan Ammo LRM-10
+CLCASEII
+CLAMS Ammo
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Clan Gauss Ammo
+Clan Gauss Ammo
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLAntiMissileSystem
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

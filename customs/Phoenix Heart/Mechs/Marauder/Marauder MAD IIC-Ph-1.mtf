@@ -1,0 +1,156 @@
+Version:1.0
+Marauder
+MAD IIC-Ph-1
+
+Config:Biped
+techbase:Mixed (IS Chassis)
+era:3069
+source:Clan Invasion
+rules level:4
+
+mass:75
+engine:300 XL Engine(IS)
+structure:IS Endo Steel
+myomer:Standard
+
+heat sinks:13 IS Double
+walk mp:4
+jump mp:4
+
+armor:Standard(Inner Sphere)
+LA armor:23
+RA armor:23
+LT armor:25
+RT armor:25
+CT armor:34
+HD armor:9
+LL armor:30
+RL armor:30
+RTL armor:7
+RTR armor:7
+RTC armor:11
+
+Weapons:9
+TAG, Right Arm
+Anti-Missile System, Right Torso
+Gauss Rifle, Left Torso
+Medium Pulse Laser, Left Arm
+Medium Pulse Laser, Left Arm
+Medium Pulse Laser, Left Arm
+Medium Pulse Laser, Right Arm
+Medium Pulse Laser, Right Arm
+Medium Pulse Laser, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+ISTAG
+IS Endo Steel
+IS Endo Steel
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+Clan Gauss Ammo
+ISCASE
+ISAMS Ammo
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISTargeting Computer
+ISTargeting Computer
+ISTargeting Computer
+ISTargeting Computer
+ISTargeting Computer
+IS Endo Steel
+ISAntiMissileSystem
+Jump Jet
+Jump Jet
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Jump Jet
+Jump Jet
+
+Head:
+Life Support
+Sensors
+Cockpit
+IS Endo Steel
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Endo Steel
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Endo Steel
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

@@ -1,0 +1,95 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+VTOL
+</UnitType>
+
+<Name>
+Yellow Jacket Gunship
+</Name>
+
+<Model>
+Ph-LRM
+</Model>
+
+<year>
+3058
+</year>
+
+<originalBuildYear>
+3058
+</originalBuildYear>
+
+<type>
+IS Level 2
+</type>
+
+<motion_type>
+VTOL
+</motion_type>
+
+<transporters>
+</transporters>
+
+<cruiseMP>
+11
+</cruiseMP>
+
+<engine_type>
+2
+</engine_type>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+1
+</armor_tech>
+
+<armor>
+22
+17
+17
+13
+2
+</armor>
+
+<Body Equipment>
+IS Ammo LRM-20 Semi-guided
+IS Ammo LRM-20 Semi-guided
+ISCASE
+</Body Equipment>
+
+<Front Equipment>
+LRM 20
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Rotor Equipment>
+</Rotor Equipment>
+
+<source>
+Clan Invasion
+</source>
+
+<tonnage>
+30.0
+</tonnage>
+

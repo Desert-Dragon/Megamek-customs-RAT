@@ -1,0 +1,155 @@
+Version:1.0
+Daishi (Dire Wolf)
+B Mk II
+
+Config:Biped Omnimech
+techbase:Clan
+era:3065
+source:TRO 3050 - Succession Wars
+rules level:2
+
+mass:100
+engine:300 XL (Clan) Engine(IS)
+structure:IS Standard
+myomer:Standard
+
+heat sinks:25 Clan Double
+base chassis heat sinks:12
+walk mp:3
+jump mp:0
+
+armor:Standard(Clan)
+LA armor:34
+RA armor:34
+LT armor:32
+RT armor:32
+CT armor:47
+HD armor:9
+LL armor:41
+RL armor:41
+RTL armor:10
+RTR armor:10
+RTC armor:14
+
+Weapons:7
+ER PPC, Left Arm
+ER PPC, Left Arm
+Medium Pulse Laser, Left Arm
+Medium Pulse Laser, Left Arm
+LB 10-X AC, Right Arm
+Ultra AC/2, Left Torso
+Ultra AC/2, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+CLERPPC (OMNIPOD)
+CLERPPC (OMNIPOD)
+CLERPPC (OMNIPOD)
+CLERPPC (OMNIPOD)
+CLMediumPulseLaser (OMNIPOD)
+CLMediumPulseLaser (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+CLLBXAC10 (OMNIPOD)
+CLLBXAC10 (OMNIPOD)
+CLLBXAC10 (OMNIPOD)
+CLLBXAC10 (OMNIPOD)
+CLLBXAC10 (OMNIPOD)
+Clan LB 10-X AC Ammo (OMNIPOD)
+Clan LB 10-X Cluster Ammo (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+Clan Ultra AC/2 Ammo (OMNIPOD)
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLUltraAC2 (OMNIPOD)
+CLUltraAC2 (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLUltraAC2 (OMNIPOD)
+CLUltraAC2 (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

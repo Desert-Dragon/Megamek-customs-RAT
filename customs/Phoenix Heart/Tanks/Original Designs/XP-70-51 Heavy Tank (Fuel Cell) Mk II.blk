@@ -1,0 +1,98 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+XP-70-51 Heavy Tank
+</Name>
+
+<Model>
+(Fuel Cell) Mk II
+</Model>
+
+<year>
+3151
+</year>
+
+<originalBuildYear>
+3151
+</originalBuildYear>
+
+<type>
+IS Level 3
+</type>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<transporters>
+</transporters>
+
+<cruiseMP>
+4
+</cruiseMP>
+
+<engine_type>
+6
+</engine_type>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+5
+</armor_tech>
+
+<armor>
+59
+48
+48
+38
+48
+</armor>
+
+<Body Equipment>
+ISCASE
+IS Ultra AC/20 Ammo
+IS Ultra AC/20 Ammo
+IS Ultra AC/20 Ammo
+IS Ultra AC/20 Ammo
+SponsonTurret
+IS Ammo MML-3 SRM Smoke
+IS Ammo MML-3 SRM Inferno
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+ISMML3(ST)
+</Right Equipment>
+
+<Left Equipment>
+ISMML3(ST)
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+ISUltraAC20
+</Turret Equipment>
+
+<tonnage>
+70.0
+</tonnage>
+

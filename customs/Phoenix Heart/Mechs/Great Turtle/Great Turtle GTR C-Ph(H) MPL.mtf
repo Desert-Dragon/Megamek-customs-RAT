@@ -1,0 +1,157 @@
+Version:1.1
+Great Turtle
+GTR C-Ph(H) MPL
+
+Config:Quad
+techbase:Mixed (Clan Chassis)
+era:3070
+source:TRO 3055 - Jihad
+rules level:4
+
+mass:100
+engine:300 XL (Clan) Engine
+structure:Clan Endo Steel
+myomer:Standard
+cockpit:Torso-Mounted Cockpit
+gyro:Compact Gyro
+
+heat sinks:16 Clan Double
+walk mp:3
+jump mp:4
+
+armor:Hardened(Inner Sphere)
+FLL armor:38
+FRL armor:38
+LT armor:30
+RT armor:30
+CT armor:43
+HD armor:9
+RLL armor:38
+RRL armor:38
+RTL armor:9
+RTR armor:9
+RTC armor:14
+
+Weapons:8
+Medium Pulse Laser, Right Torso
+Medium Pulse Laser, Right Torso
+Medium Pulse Laser, Right Torso
+Medium Pulse Laser, Right Torso
+Medium Pulse Laser, Right Torso
+Medium Pulse Laser, Right Torso
+Medium Pulse Laser, Right Torso
+Medium Pulse Laser, Right Torso
+
+Front Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Front Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Life Support
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+Improved Jump Jet
+Improved Jump Jet
+Improved Jump Jet
+Improved Jump Jet
+Improved Jump Jet
+Improved Jump Jet
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Life Support
+ISQuadTurret
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro (ARMORED)
+Gyro (ARMORED)
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Cockpit (ARMORED)
+Sensors
+Improved Jump Jet
+Improved Jump Jet
+
+Head:
+Sensors
+Sensors
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Rear Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Rear Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

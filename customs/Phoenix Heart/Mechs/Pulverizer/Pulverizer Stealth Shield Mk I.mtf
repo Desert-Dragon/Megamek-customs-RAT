@@ -1,0 +1,153 @@
+Version:1.1
+Pulverizer
+Stealth Shield Mk I
+
+Config:Biped
+techbase:Mixed (Clan Chassis)
+era:3070
+source:Succession Wars
+rules level:4
+
+mass:90
+engine:360 XL (Clan) Engine
+structure:IS Standard
+myomer:Triple-Strength
+cockpit:Standard Cockpit
+gyro:Compact Gyro
+
+heat sinks:14 Clan Double
+walk mp:4
+jump mp:4
+
+armor:Stealth(Inner Sphere)
+LA armor:30
+RA armor:30
+LT armor:29
+RT armor:29
+CT armor:44
+HD armor:9
+LL armor:38
+RL armor:38
+RTL armor:9
+RTR armor:9
+RTC armor:14
+
+Weapons:4
+Large Pulse Laser, Right Torso
+ER Medium Laser, Right Torso
+Small Pulse Laser, Right Torso
+Micro Pulse Laser, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+IS Stealth
+IS Stealth
+ISMediumShield
+ISMediumShield
+ISMediumShield
+ISMediumShield
+ISMediumShield
+Triple Strength Myomer
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+IS Stealth
+IS Stealth
+Hatchet
+Hatchet
+Hatchet
+Hatchet
+Hatchet
+Hatchet
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+IS Stealth
+IS Stealth
+CLPartialWing
+CLPartialWing
+CLPartialWing
+CLECMSuite
+Jump Jet
+Jump Jet
+Jump Jet
+Jump Jet
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+IS Stealth
+IS Stealth
+CLPartialWing
+CLPartialWing
+CLPartialWing
+ISLargePulseLaser
+ISLargePulseLaser
+CLERMediumLaser
+CLSmallPulseLaser
+CLMicroPulseLaser
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro (ARMORED)
+Gyro (ARMORED)
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Triple Strength Myomer
+Triple Strength Myomer
+Triple Strength Myomer
+Triple Strength Myomer
+
+Head:
+Life Support
+Sensors
+Cockpit
+Triple Strength Myomer
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Stealth
+IS Stealth
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Stealth
+IS Stealth
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

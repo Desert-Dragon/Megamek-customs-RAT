@@ -1,0 +1,110 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Challenger MBT
+</Name>
+
+<Model>
+C-Ph (H) 4-6 Mk II
+</Model>
+
+<year>
+3100
+</year>
+
+<originalBuildYear>
+3100
+</originalBuildYear>
+
+<type>
+Mixed (IS Chassis) Experimental
+</type>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<transporters>
+</transporters>
+
+<cruiseMP>
+4
+</cruiseMP>
+
+<engine_type>
+3
+</engine_type>
+
+<armor_type>
+4
+</armor_type>
+
+<armor_tech>
+7
+</armor_tech>
+
+<armor>
+39
+31
+31
+24
+31
+</armor>
+
+<Body Equipment>
+ISCASE
+CLAMS Ammo
+CLArmoredMotiveSystem
+Clan Streak SRM 6 Ammo
+Clan Ammo iATM-12 ER
+Clan Ammo iATM-12 HE
+Clan Ammo iATM-12
+Clan Ammo iATM-12 ER
+Supercharger
+SponsonTurret
+ISAngelECMSuite
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+CLAntiMissileSystem(ST)
+CLAntiMissileSystem(ST)
+</Right Equipment>
+
+<Left Equipment>
+CLAntiMissileSystem(ST)
+CLAntiMissileSystem(ST)
+</Left Equipment>
+
+<Rear Equipment>
+CLAntiMissileSystem
+</Rear Equipment>
+
+<Turret Equipment>
+CLLargePulseLaser
+CLStreakSRM6
+CLiATM12
+</Turret Equipment>
+
+<source>
+Clan Invasion
+</source>
+
+<tonnage>
+90.0
+</tonnage>
+

@@ -1,0 +1,72 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Infantry
+</UnitType>
+
+<Name>
+Mechanized Tracked Platoon
+</Name>
+
+<Model>
+Field Gunners (C-UAC/20)
+</Model>
+
+<year>
+3071
+</year>
+
+<originalBuildYear>
+3071
+</originalBuildYear>
+
+<type>
+Mixed (IS Chassis) Advanced
+</type>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<transporters>
+</transporters>
+
+<Field Guns Equipment>
+CLUltraAC20
+IS Ultra AC/20 Ammo
+CLUltraAC20
+IS Ultra AC/20 Ammo
+</Field Guns Equipment>
+
+<history>
+Intro date is based on when the weapon becomes an Advanced weapon. Since MM can't make certain units unavailable when a weapon becomes extinct these units may become invalid.
+</history>
+
+<squad_size>
+7
+</squad_size>
+
+<squadn>
+4
+</squadn>
+
+<Primary>
+InfantryAssaultRifle
+</Primary>
+
+<armorKit>
+Clan Armor Kit (All)
+</armorKit>
+
+<armordivisor>
+2.0
+</armordivisor>
+

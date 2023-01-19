@@ -1,0 +1,111 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Ontos Heavy Tank
+</Name>
+
+<Model>
+HEAT C-Ph
+</Model>
+
+<year>
+3070
+</year>
+
+<originalBuildYear>
+3070
+</originalBuildYear>
+
+<type>
+Mixed (IS Chassis) Experimental
+</type>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<transporters>
+</transporters>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<engine_type>
+2
+</engine_type>
+
+<clan_engine>
+true
+</clan_engine>
+
+<armor_type>
+6
+</armor_type>
+
+<armor_tech>
+1
+</armor_tech>
+
+<armor>
+75
+61
+61
+49
+61
+</armor>
+
+<Body Equipment>
+CLArmoredMotiveSystem
+CLAMS Ammo
+Clan Ammo SRM-4 (Clan) Smoke
+ISTAG
+ISCASE
+CLTargeting Computer
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+CLSRM4
+</Right Equipment>
+
+<Left Equipment>
+CLSRM4
+</Left Equipment>
+
+<Rear Equipment>
+CLAntiMissileSystem
+</Rear Equipment>
+
+<Turret Equipment>
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+</Turret Equipment>
+
+<source>
+TR0:Prototypes
+</source>
+
+<tonnage>
+95.0
+</tonnage>
+

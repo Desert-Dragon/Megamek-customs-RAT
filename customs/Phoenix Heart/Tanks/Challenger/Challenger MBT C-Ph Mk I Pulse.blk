@@ -1,0 +1,102 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Challenger MBT
+</Name>
+
+<Model>
+C-Ph Mk I Pulse
+</Model>
+
+<mul id:>
+538
+</mul id:>
+
+<year>
+3150
+</year>
+
+<originalBuildYear>
+3150
+</originalBuildYear>
+
+<type>
+Mixed (IS Chassis) Experimental
+</type>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<transporters>
+</transporters>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<engine_type>
+2
+</engine_type>
+
+<armor_type>
+4
+</armor_type>
+
+<armor_tech>
+5
+</armor_tech>
+
+<armor>
+33
+25
+25
+20
+25
+</armor>
+
+<Body Equipment>
+CLArmoredMotiveSystem
+CLTargeting Computer
+SponsonTurret
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+CLMediumPulseLaser(ST)
+</Right Equipment>
+
+<Left Equipment>
+CLMediumPulseLaser(ST)
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+CLLargePulseLaser
+CLLargePulseLaser
+</Turret Equipment>
+
+<source>
+Clan Invasion
+</source>
+
+<tonnage>
+90.0
+</tonnage>
+

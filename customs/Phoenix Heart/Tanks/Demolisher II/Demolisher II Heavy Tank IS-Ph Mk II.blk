@@ -1,0 +1,111 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Demolisher II Heavy Tank
+</Name>
+
+<Model>
+IS-Ph Mk II
+</Model>
+
+<year>
+3068
+</year>
+
+<originalBuildYear>
+3068
+</originalBuildYear>
+
+<type>
+IS Level 4
+</type>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<transporters>
+</transporters>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<engine_type>
+2
+</engine_type>
+
+<armor_type>
+4
+</armor_type>
+
+<armor_tech>
+7
+</armor_tech>
+
+<armor>
+37
+28
+28
+23
+28
+</armor>
+
+<Body Equipment>
+ISCASE
+SponsonTurret
+IS Ammo MML-3 SRM
+IS Ammo MML-3 SRM Smoke
+IS Ammo MML-3 LRM
+ISAMS Ammo
+ISRotaryAC5 Ammo
+ISRotaryAC5 Ammo
+ISEnhancedLRM20 Ammo Artemis-capable
+ISEnhancedLRM20 Ammo Artemis-capable
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+ISMML3(ST)
+ISAntiMissileSystem(ST)
+ISArtemisIV(ST)
+</Right Equipment>
+
+<Left Equipment>
+ISMML3(ST)
+ISAntiMissileSystem(ST)
+ISArtemisIV(ST)
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+ISLargeXPulseLaser
+ISRotaryAC5
+Enhanced LRM 20
+ISArtemisIV
+</Turret Equipment>
+
+<source>
+Clan Invasion
+</source>
+
+<tonnage>
+100.0
+</tonnage>
+

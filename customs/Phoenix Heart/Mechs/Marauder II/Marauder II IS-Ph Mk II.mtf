@@ -1,0 +1,153 @@
+Version:1.0
+Marauder II
+IS-Ph Mk II
+
+Config:Biped
+techbase:Inner Sphere
+era:3064
+source:PhoenixHeart
+rules level:4
+
+mass:100
+engine:400 XL Engine(IS)
+structure:IS Endo Steel
+myomer:Standard
+
+heat sinks:16 IS Double
+walk mp:4
+jump mp:4
+
+armor:Standard(Inner Sphere)
+LA armor:33
+RA armor:33
+LT armor:32
+RT armor:32
+CT armor:46
+HD armor:9
+LL armor:42
+RL armor:42
+RTL armor:10
+RTR armor:10
+RTC armor:15
+
+Weapons:6
+Medium Laser, Left Arm
+Medium Laser, Left Arm
+Medium Laser, Right Arm
+Medium Laser, Right Arm
+Long Tom Cannon, Right Torso
+Rocket Launcher 10, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Medium Laser
+Medium Laser
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISLongTomCannon
+ISLongTomCannon
+ISLongTomCannon
+ISLongTomCannon
+ISLongTomCannon
+ISLongTomCannon
+Medium Laser
+Medium Laser
+IS Endo Steel
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISCASEII
+Fuel-Air Long Tom Cannon Ammo
+Fuel-Air Long Tom Cannon Ammo
+Fuel-Air Long Tom Cannon Ammo
+RL10
+IS Endo Steel
+IS Endo Steel
+Jump Jet
+Jump Jet
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISLongTomCannon
+ISLongTomCannon
+ISLongTomCannon
+ISLongTomCannon
+ISLongTomCannon
+ISLongTomCannon
+ISLongTomCannon
+ISLongTomCannon
+ISLongTomCannon
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Jump Jet
+Jump Jet
+
+Head:
+Life Support
+Sensors
+Cockpit
+IS Endo Steel
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Endo Steel
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Endo Steel
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

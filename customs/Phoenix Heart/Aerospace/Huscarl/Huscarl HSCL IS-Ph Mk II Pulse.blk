@@ -1,0 +1,115 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Aero
+</UnitType>
+
+<Name>
+Huscarl
+</Name>
+
+<Model>
+HSCL IS-Ph Mk II Pulse
+</Model>
+
+<year>
+3071
+</year>
+
+<originalBuildYear>
+3071
+</originalBuildYear>
+
+<type>
+Mixed (IS Chassis) Experimental
+</type>
+
+<motion_type>
+Aerodyne
+</motion_type>
+
+<transporters>
+</transporters>
+
+<SafeThrust>
+5
+</SafeThrust>
+
+<cockpit_type>
+2
+</cockpit_type>
+
+<heatsinks>
+21
+</heatsinks>
+
+<sink_type>
+1
+</sink_type>
+
+<omnipodheatsinks>
+7
+</omnipodheatsinks>
+
+<fuel>
+400
+</fuel>
+
+<engine_type>
+2
+</engine_type>
+
+<omni>
+1
+</omni>
+
+<armor>
+101
+81
+81
+73
+</armor>
+
+<Nose Equipment>
+ISMediumPulseLaser:OMNI
+ISLargePulseLaser:OMNI
+</Nose Equipment>
+
+<Left Wing Equipment>
+ISMediumPulseLaser:OMNI
+ISMediumPulseLaser:OMNI
+ISMediumPulseLaser:OMNI
+</Left Wing Equipment>
+
+<Right Wing Equipment>
+ISMediumPulseLaser:OMNI
+ISMediumPulseLaser:OMNI
+ISMediumPulseLaser:OMNI
+</Right Wing Equipment>
+
+<Aft Equipment>
+</Aft Equipment>
+
+<Wings Equipment>
+</Wings Equipment>
+
+<Fuselage Equipment>
+ISTargeting Computer:OMNI
+</Fuselage Equipment>
+
+<source>
+TRO 3067 - Jihad
+</source>
+
+<tonnage>
+75.0
+</tonnage>
+

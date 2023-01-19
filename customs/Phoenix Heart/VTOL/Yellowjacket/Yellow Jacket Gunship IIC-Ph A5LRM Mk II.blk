@@ -1,0 +1,101 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+VTOL
+</UnitType>
+
+<Name>
+Yellow Jacket Gunship
+</Name>
+
+<Model>
+IIC-Ph A5LRM Mk II
+</Model>
+
+<year>
+3068
+</year>
+
+<originalBuildYear>
+3068
+</originalBuildYear>
+
+<type>
+Mixed (IS Chassis) Experimental
+</type>
+
+<motion_type>
+VTOL
+</motion_type>
+
+<transporters>
+</transporters>
+
+<cruiseMP>
+10
+</cruiseMP>
+
+<engine_type>
+2
+</engine_type>
+
+<armor_type>
+22
+</armor_type>
+
+<armor_tech>
+5
+</armor_tech>
+
+<armor>
+16
+14
+14
+10
+2
+</armor>
+
+<Body Equipment>
+ISCASE
+Clan Ammo LRM-15 (Clan) Artemis V-capable
+Clan Ammo LRM-15 (Clan) Artemis V-capable
+Clan Ammo LRM-15 (Clan) Artemis V-capable
+IS Vehicular Stealth
+CLECMSuite
+</Body Equipment>
+
+<Front Equipment>
+CLLRM15
+CLLRM15
+CLArtemisV
+CLArtemisV
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Rotor Equipment>
+</Rotor Equipment>
+
+<source>
+Clan Invasion
+</source>
+
+<tonnage>
+30.0
+</tonnage>
+

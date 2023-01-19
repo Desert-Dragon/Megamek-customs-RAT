@@ -1,0 +1,152 @@
+Version:1.1
+Marauder II
+C-Ph Plasma Mk II
+
+Config:Biped
+techbase:Mixed (IS Chassis)
+era:3150
+source:Rec Guide:ilClan #5 - Dark Age
+rules level:4
+
+mass:100
+engine:300 XL (Clan) Engine
+structure:Clan Endo Steel
+myomer:Standard
+cockpit:Standard Cockpit
+gyro:Compact Gyro
+
+heat sinks:15 Clan Double
+walk mp:3
+jump mp:5
+
+armor:Standard(Inner Sphere)
+LA armor:33
+RA armor:33
+LT armor:32
+RT armor:32
+CT armor:46
+HD armor:9
+LL armor:42
+RL armor:42
+RTL armor:10
+RTR armor:10
+RTC armor:15
+
+Weapons:3
+Plasma Rifle, Right Arm
+Plasma Rifle, Left Arm
+LB 20-X AC, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISPlasmaRifle
+ISPlasmaRifle
+ISPlasmaRifleAmmo
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISPlasmaRifle
+ISPlasmaRifle
+ISCASEII
+Clan LB 20-X Cluster Ammo
+Clan LB 20-X Cluster Ammo
+Clan LB 20-X AC Ammo
+Clan LB 20-X AC Ammo
+ISPlasmaRifleAmmo
+Clan Endo Steel
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Improved Jump Jet
+Improved Jump Jet
+Improved Jump Jet
+Improved Jump Jet
+Improved Jump Jet
+Improved Jump Jet
+Improved Jump Jet
+Improved Jump Jet
+CLDoubleHeatSink
+CLDoubleHeatSink
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+CLLBXAC20
+CLLBXAC20
+CLLBXAC20
+CLLBXAC20
+CLLBXAC20
+CLLBXAC20
+CLLBXAC20
+CLLBXAC20
+CLLBXAC20
+ISPlasmaRifleAmmo
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Improved Jump Jet
+Improved Jump Jet
+CLActiveProbe
+CLECMSuite
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

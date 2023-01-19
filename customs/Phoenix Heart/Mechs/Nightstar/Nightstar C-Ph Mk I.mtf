@@ -1,0 +1,151 @@
+Version:1.0
+Nightstar
+C-Ph Mk I
+
+Config:Biped
+techbase:Mixed (IS Chassis)
+era:3067
+source:PhoenixHeart
+rules level:4
+
+mass:95
+engine:285 XL (Clan) Engine
+structure:IS Standard
+myomer:Standard
+
+heat sinks:20 Clan Double
+walk mp:3
+jump mp:3
+
+armor:Standard(Inner Sphere)
+LA armor:31
+RA armor:31
+LT armor:31
+RT armor:31
+CT armor:45
+HD armor:9
+LL armor:39
+RL armor:39
+RTL armor:9
+RTR armor:9
+RTC armor:14
+
+Weapons:4
+Thunderbolt 15, Right Torso
+Thunderbolt 15, Left Torso
+ER Large Laser, Right Arm
+ER Large Laser, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLERLargeLaser
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLERLargeLaser
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Thunderbolt 15
+Thunderbolt 15
+Thunderbolt 15
+ISCASEII
+IS Ammo Thunderbolt-15
+IS Ammo Thunderbolt-15
+IS Ammo Thunderbolt-15
+IS Ammo Thunderbolt-15
+IS Ammo Thunderbolt-15
+IS Ammo Thunderbolt-15
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Thunderbolt 15
+Thunderbolt 15
+Thunderbolt 15
+Jump Jet
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Jump Jet
+Jump Jet
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

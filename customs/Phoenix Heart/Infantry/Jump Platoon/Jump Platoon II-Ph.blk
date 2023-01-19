@@ -1,0 +1,80 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Infantry
+</UnitType>
+
+<Name>
+Jump Platoon
+</Name>
+
+<Model>
+II-Ph
+</Model>
+
+<year>
+3071
+</year>
+
+<originalBuildYear>
+3071
+</originalBuildYear>
+
+<type>
+Mixed (IS Chassis) Advanced
+</type>
+
+<motion_type>
+Jump
+</motion_type>
+
+<transporters>
+</transporters>
+
+<Field Guns Equipment>
+</Field Guns Equipment>
+
+<overview>
+Heavy Jump Infantry Royal Gurkha Battalion
+</overview>
+
+<source>
+TRO 3085 (Generic version)
+</source>
+
+<squad_size>
+7
+</squad_size>
+
+<squadn>
+3
+</squadn>
+
+<Primary>
+Laser Rifle (Mauser 960)
+</Primary>
+
+<antimek>
+8
+</antimek>
+
+<armorKit>
+Ballistic Plate, Standard
+</armorKit>
+
+<armordivisor>
+2.0
+</armordivisor>
+
+<encumberingarmor>
+true
+</encumberingarmor>
+

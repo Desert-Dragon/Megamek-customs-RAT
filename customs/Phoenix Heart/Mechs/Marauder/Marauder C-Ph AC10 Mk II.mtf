@@ -1,0 +1,155 @@
+Version:1.0
+Marauder
+C-Ph AC10 Mk II
+
+Config:Biped
+techbase:Mixed (IS Chassis)
+era:3155
+source:Clan Invasion
+rules level:4
+
+mass:75
+engine:225 XL Engine(IS)
+structure:IS Standard
+myomer:Standard
+
+heat sinks:15 Clan Double
+walk mp:3
+jump mp:5
+
+armor:Standard(Inner Sphere)
+LA armor:23
+RA armor:23
+LT armor:25
+RT armor:25
+CT armor:34
+HD armor:9
+LL armor:30
+RL armor:30
+RTL armor:7
+RTR armor:7
+RTC armor:11
+
+Weapons:8
+Medium Pulse Laser, Left Arm
+Medium Pulse Laser, Left Arm
+Medium Pulse Laser, Left Arm
+Medium Pulse Laser, Right Arm
+Medium Pulse Laser, Right Arm
+Medium Pulse Laser, Right Arm
+Improved Autocannon/10, Left Torso
+Flamer, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Improved Autocannon/10
+Improved Autocannon/10
+Improved Autocannon/10
+Improved Autocannon/10
+Improved Autocannon/10
+Improved Autocannon/10
+Improved Jump Jet
+Improved Jump Jet
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISCASEII
+IS Precision Ammo AC/10
+IS Precision Ammo AC/10
+IS Precision Ammo AC/10
+Improved Jump Jet
+Improved Jump Jet
+Improved Jump Jet
+Improved Jump Jet
+CLFlamer
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Improved Jump Jet
+Improved Jump Jet
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Improved Jump Jet
+Improved Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

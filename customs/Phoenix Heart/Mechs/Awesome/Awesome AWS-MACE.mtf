@@ -1,0 +1,168 @@
+Version:1.0
+Awesome
+AWS-MACE
+
+Config:Biped
+techbase:Mixed (IS Chassis)
+era:3073
+source:TRO 3039 - Star League
+rules level:4
+
+mass:80
+engine:320 XL Engine(IS)
+structure:IS Standard
+myomer:Triple-Strength
+
+heat sinks:10 Clan Double
+walk mp:4
+jump mp:4
+
+armor:Hardened(Inner Sphere)
+LA armor:20
+RA armor:20
+LT armor:22
+RT armor:22
+CT armor:30
+HD armor:9
+LL armor:26
+RL armor:26
+RTL armor:6
+RTR armor:6
+RTC armor:9
+
+Weapons:8
+Medium Pulse Laser, Left Torso
+Medium Pulse Laser, Left Torso
+Small Pulse Laser, Left Torso
+Small Pulse Laser, Center Torso
+Micro Pulse Laser, Left Torso
+Micro Pulse Laser, Head
+Improved Heavy Medium Laser, Left Torso
+Improved Heavy Medium Laser, Left Leg
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Mace
+Mace
+Mace
+Mace
+Mace
+Mace
+Mace
+Mace
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+ISMediumShield
+ISMediumShield
+ISMediumShield
+ISMediumShield
+ISMediumShield
+Triple Strength Myomer
+Triple Strength Myomer
+Triple Strength Myomer
+Triple Strength Myomer
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLPartialWing
+CLPartialWing
+CLPartialWing
+CLImprovedMediumHeavyLaser
+CLImprovedMediumHeavyLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLSmallPulseLaser
+CLMicroPulseLaser
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLPartialWing
+CLPartialWing
+CLPartialWing
+Triple Strength Myomer
+Triple Strength Myomer
+Jump Jet
+Jump Jet
+Jump Jet
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLSmallPulseLaser
+Jump Jet
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLMicroPulseLaser
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLImprovedMediumHeavyLaser
+CLImprovedMediumHeavyLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+overview: Tasked by the SLDF to replace their aging fleet of Strikers, Technicron Manufacturing would present their Awesome in 2665. Few at the time realized that the design would quickly become one of the most coveted Assault 'Mechs of the Succession Wars to come. Nearly always tasked with the heaviest attacks, the Awesome and its PPC-based armament would come to be regarded as the quintessential "zombie" design. Durable, reliable, and near unstoppable, officers jump at any opportunity to field the design within their commands.
+capabilities: The PPCs of most Awesomes give it intimidating firepower over long ranges. Its thick armor plating, intelligent system placement, and lack of explosive components makes disabling one a challenging task; indeed, even flaking 'Mechs will find their attempts thwarted by the Awesome's unusually heavy rear armor. Careful heat management is a must when at the helm of an Awesome. A standard "2-3-2" volley became the norm for most MechWarriors, giving the 'Mech the greatest damage output without compromizing its accuracy. Its slow speed and targeting trouble with the PPCs at short range does give it some weaknesses, however, and it always fares best when well supported by a larger formation.
+deployment: Highly prized and used without reservation by every power of note, the Awesome is mostly concentrated in true assault formations. The manufacturing plants on Savannah were the only factories to produce the design during the Succession Wars, leading to a much greater concentration of the 'Mech within Free Worlds League space. The AWS-8Q, as the base variant of the design, was also the most produced. Even with production eventually supplanted by other variants, many AWS-8Q's would remain in general usage, with its firepower and doctrine still effective even today.
+systemmanufacturer:CHASSIS:Technicron
+systemmode:CHASSIS:Type G
+systemmanufacturer:ENGINE:Pitban
+systemmode:ENGINE:240
+systemmanufacturer:ARMOR:Durallex
+systemmode:ARMOR:Heavy Special
+systemmanufacturer:COMMUNICATIONS:Garrett
+systemmode:COMMUNICATIONS:T19-G
+systemmanufacturer:TARGETING:Dynatec
+systemmode:TARGETING:2780
+

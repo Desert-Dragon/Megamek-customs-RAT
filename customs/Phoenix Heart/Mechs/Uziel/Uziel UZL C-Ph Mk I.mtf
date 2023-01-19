@@ -1,0 +1,165 @@
+Version:1.0
+Uziel
+UZL C-Ph Mk I
+
+Config:Biped
+techbase:Mixed (IS Chassis)
+era:3063
+source:TRO 3067
+rules level:4
+
+mass:50
+engine:300 XL Engine(IS)
+structure:IS Endo Steel
+myomer:Standard
+
+heat sinks:13 IS Double
+walk mp:6
+jump mp:6
+
+armor:Ferro-Fibrous(Clan)
+LA armor:14
+RA armor:14
+LT armor:18
+RT armor:18
+CT armor:21
+HD armor:9
+LL armor:21
+RL armor:21
+RTL armor:5
+RTR armor:5
+RTC armor:7
+
+Weapons:7
+Large Pulse Laser, Right Arm
+Large Pulse Laser, Left Arm
+Streak SRM 6, Center Torso
+Machine Gun, Left Torso
+Machine Gun, Left Torso
+Machine Gun, Right Torso
+Machine Gun, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+CLLargePulseLaser
+CLLargePulseLaser
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+Clan Ferro-Fibrous
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+CLLargePulseLaser
+CLLargePulseLaser
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+Clan Ferro-Fibrous
+Clan Ferro-Fibrous
+Clan Ferro-Fibrous
+Clan Ferro-Fibrous
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Jump Jet
+Jump Jet
+Jump Jet
+CLMG
+CLMG
+Clan Streak SRM 6 Ammo
+Clan Machine Gun Ammo - Half
+IS Endo Steel
+ISCASE
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Jump Jet
+Jump Jet
+Jump Jet
+CLMG
+CLMG
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+Clan Ferro-Fibrous
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLStreakSRM6
+CLStreakSRM6
+
+Head:
+Life Support
+Sensors
+Cockpit
+Clan Ferro-Fibrous
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Endo Steel
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Endo Steel
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+overview:Built at Defiance Industries' Furillo plant, the Uziel is an effective medium 'Mech that is looked down upon by the LAAF simply because it is produced on Furillo and not at the prestigious Hesperus facility. A varied weapons mix makes the Uziel an excellent trooper 'Mech.
+capabilities:The Uziel is built on a Foundation E50 Endo Steel chassis that has a GM 300 XL engine that provides the 'Mech with a top speed of 97.2 km/h. The 'Mech's mobility is enhanced with six Rawlings 50 jump jets that allow the 'Mech to jump up to one hundred and eighty meters. The Uziel is armored with eight tons of Maximillian 100 armor that gives the Uziel adequate protection from enemy fire. To dissipate the heat produced by the 'Mech's weapons, it carries eleven double heat sinks.
+deployment:Based on the original prototype of the Uziel developed in 3063, the 2S carries a pair of PPCs as its primary weapons for long range combat. A SRM-6 launcher provides close combat capabilities and a pair of Machine Guns provide anti-infantry capabilities. A Beagle Active Probe allows the 'Mech to detect hidden units and protects the Uziel from ambushes.
+manufacturer:Defiance Industries
+primaryfactory:Furillo
+systemmanufacturer:CHASSIS:Foundation E50 Endo Steel
+systemmanufacturer:ENGINE:GM 300 XL
+systemmanufacturer:ARMOR:Maximillian 100
+systemmanufacturer:JUMPJET:Rawlings 50
+systemmanufacturer:COMMUNICATIONS:Neil 6000-g
+systemmanufacturer:TARGETING:RCA Instatrac Mark XXII
+

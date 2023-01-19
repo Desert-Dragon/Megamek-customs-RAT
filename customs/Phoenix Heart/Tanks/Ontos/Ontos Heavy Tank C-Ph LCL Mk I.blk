@@ -1,0 +1,112 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Ontos Heavy Tank
+</Name>
+
+<Model>
+C-Ph LCL Mk I
+</Model>
+
+<year>
+3060
+</year>
+
+<originalBuildYear>
+3060
+</originalBuildYear>
+
+<type>
+Mixed (IS Chassis) Experimental
+</type>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<transporters>
+</transporters>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<engine_type>
+2
+</engine_type>
+
+<armor_type>
+4
+</armor_type>
+
+<armor_tech>
+5
+</armor_tech>
+
+<armor>
+37
+28
+28
+23
+28
+</armor>
+
+<Body Equipment>
+CLAMS Ammo
+CLCASE
+Clan Ammo SRM-4 (Clan) Smoke
+CLArmoredMotiveSystem
+SponsonTurret
+Clan Ammo SRM-4
+CLLargeChemLaserAmmo
+CLLargeChemLaserAmmo
+CLLargeChemLaserAmmo
+CLLargeChemLaserAmmo
+CLLargeChemLaserAmmo
+CLLargeChemLaserAmmo
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+CLAntiMissileSystem(ST)
+CLSRM4(ST)
+</Right Equipment>
+
+<Left Equipment>
+CLSRM4(ST)
+CLAntiMissileSystem(ST)
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+CLLargeChemicalLaser
+CLLargeChemicalLaser
+CLLargeChemicalLaser
+CLLargeChemicalLaser
+CLLargeChemicalLaser
+</Turret Equipment>
+
+<source>
+TRO 3039 - Succession Wars
+</source>
+
+<tonnage>
+95.0
+</tonnage>
+

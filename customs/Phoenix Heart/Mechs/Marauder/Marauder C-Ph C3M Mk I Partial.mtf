@@ -1,0 +1,156 @@
+Version:1.0
+Marauder
+C-Ph C3M Mk I Partial
+
+Config:Biped
+techbase:Mixed (IS Chassis)
+era:3062
+source:Clan Invasion
+rules level:4
+
+mass:75
+engine:300 XL Engine(IS)
+structure:Clan Endo Steel
+myomer:Standard
+
+heat sinks:13 Clan Double
+walk mp:4
+jump mp:4
+
+armor:Standard(Inner Sphere)
+LA armor:23
+RA armor:23
+LT armor:25
+RT armor:25
+CT armor:34
+HD armor:9
+LL armor:30
+RL armor:30
+RTL armor:7
+RTR armor:7
+RTC armor:11
+
+Weapons:9
+Medium Pulse Laser, Right Arm
+Medium Pulse Laser, Right Arm
+Medium Pulse Laser, Right Arm
+Medium Pulse Laser, Left Arm
+Medium Pulse Laser, Left Arm
+Medium Pulse Laser, Left Arm
+Light AC/5, Right Torso
+Light AC/5, Left Torso
+C3 Computer (Master), Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+Clan Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+ISC3MasterUnit
+ISC3MasterUnit
+ISC3MasterUnit
+ISC3MasterUnit
+ISC3MasterUnit
+Clan Endo Steel
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Light Auto Cannon/5
+Light Auto Cannon/5
+ISCASE
+IS Precision Ammo LAC/5
+IS Precision Ammo LAC/5
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+Jump Jet
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Light Auto Cannon/5
+Light Auto Cannon/5
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+CLTargeting Computer
+Clan Endo Steel
+Jump Jet
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Jump Jet
+Jump Jet
+
+Head:
+Life Support
+Sensors
+Cockpit
+Clan Endo Steel
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

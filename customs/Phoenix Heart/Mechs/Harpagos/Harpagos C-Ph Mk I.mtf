@@ -1,0 +1,158 @@
+Version:1.1
+Harpagos
+C-Ph Mk I
+
+Config:QuadVee
+techbase:Mixed (Clan Chassis)
+era:3136
+source:PhoenixHeart
+rules level:3
+
+mass:75
+engine:300 XL (Clan) Engine
+structure:IS Standard
+myomer:Standard
+motive:Track
+cockpit:QuadVee Cockpit
+gyro:Compact Gyro
+
+heat sinks:19 Laser
+walk mp:4
+jump mp:0
+
+armor:Standard(Inner Sphere)
+FLL armor:31
+FRL armor:31
+LT armor:24
+RT armor:24
+CT armor:34
+HD armor:9
+RLL armor:31
+RRL armor:31
+RTL armor:7
+RTR armor:7
+RTC armor:11
+
+Weapons:8
+ER Medium Laser, Right Torso
+ER Medium Laser, Right Torso
+ER Medium Laser, Right Torso
+ER Medium Laser, Left Torso
+ER Medium Laser, Left Torso
+ER Medium Laser, Left Torso
+ER Medium Laser, Left Torso
+ER Medium Laser, Right Torso
+
+Front Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Conversion Gear
+Tracks
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Front Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Conversion Gear
+Tracks
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+CLERMediumLaser
+CLERMediumLaser
+CLERMediumLaser
+CLERMediumLaser
+Laser Heat Sink
+Laser Heat Sink
+Laser Heat Sink
+Laser Heat Sink
+Laser Heat Sink
+Laser Heat Sink
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+CLERMediumLaser
+CLERMediumLaser
+CLERMediumLaser
+CLERMediumLaser
+CLTargeting Computer
+CLTargeting Computer
+Laser Heat Sink
+Laser Heat Sink
+Laser Heat Sink
+Laser Heat Sink
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Laser Heat Sink
+Laser Heat Sink
+Laser Heat Sink
+Laser Heat Sink
+
+Head:
+Life Support
+Sensors
+Cockpit
+Cockpit
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Rear Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Conversion Gear
+Tracks
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Rear Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Conversion Gear
+Tracks
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

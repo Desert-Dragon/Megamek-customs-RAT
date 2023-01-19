@@ -1,0 +1,106 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Manticore Heavy Tank
+</Name>
+
+<Model>
+C-Ph iATM Mk I
+</Model>
+
+<year>
+3150
+</year>
+
+<originalBuildYear>
+3150
+</originalBuildYear>
+
+<type>
+Mixed (IS Chassis) Experimental
+</type>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<transporters>
+</transporters>
+
+<cruiseMP>
+4
+</cruiseMP>
+
+<engine_type>
+2
+</engine_type>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+1
+</armor_tech>
+
+<armor>
+61
+50
+50
+39
+50
+</armor>
+
+<Body Equipment>
+SponsonTurret
+Clan Ammo SRM-4
+Clan Ammo SRM-4 (Clan) Smoke
+ISCASE
+CLAMS Ammo
+Clan Ammo ATM-9 ER
+Clan Ammo ATM-9 HE
+Clan Ammo ATM-9
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+CLSRM4(ST)
+CLAntiMissileSystem(ST)
+</Right Equipment>
+
+<Left Equipment>
+CLSRM4(ST)
+CLAntiMissileSystem(ST)
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+CLATM9
+CLATM9
+CLLargePulseLaser
+</Turret Equipment>
+
+<source>
+PhoenixHeart
+</source>
+
+<tonnage>
+60.0
+</tonnage>
+

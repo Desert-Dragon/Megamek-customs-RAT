@@ -1,0 +1,242 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Dropship
+</UnitType>
+
+<Name>
+Overlord
+</Name>
+
+<Model>
+C-Ph Mk I
+</Model>
+
+<year>
+3067
+</year>
+
+<originalBuildYear>
+2775
+</originalBuildYear>
+
+<type>
+Mixed (IS Chassis) Experimental
+</type>
+
+<motion_type>
+Spheroid
+</motion_type>
+
+<transporters>
+mechbay:15.0:3
+heavyvehiclebay:15.0:3:2
+2ndclassquarters:0.0:0
+1stclassquarters:80.0:0
+crewquarters:315.0:0
+asfbay:6.0:2:3
+cargobay:400.0:0:4
+</transporters>
+
+<SafeThrust>
+3
+</SafeThrust>
+
+<heatsinks>
+170
+</heatsinks>
+
+<sink_type>
+1
+</sink_type>
+
+<fuel>
+9180
+</fuel>
+
+<engine_type>
+1
+</engine_type>
+
+<armor_type>
+41
+</armor_type>
+
+<armor_tech>
+1
+</armor_tech>
+
+<armor>
+658
+554
+554
+450
+</armor>
+
+<Nose Equipment>
+(B) ISLongTom
+ISLongTom
+ISLongTomAmmo:50
+(B) CLArrowIV
+CLArrowIV
+CLArrowIVAmmo:30
+(B) CLAntiMissileSystem
+CLAntiMissileSystem
+CLAMS Ammo:96
+</Nose Equipment>
+
+<Left Side Equipment>
+(B) ISImprovedHeavyGaussRifle
+ISImprovedHeavyGaussRifle
+ISImprovedHeavyGaussRifle
+ISImprovedHeavyGaussRifle
+ISImprovedHeavyGauss Ammo:64
+(B) CLStreakLRM20
+CLStreakLRM20
+CLStreakLRM20
+Clan Streak LRM 20 Ammo:72
+(B) CLERLargePulseLaser
+CLERLargePulseLaser
+CLERLargePulseLaser
+CLERLargePulseLaser
+(R) (B) CLStreakLRM20
+(R) CLStreakLRM20
+(R) CLStreakLRM20
+(R) Clan Streak LRM 20 Ammo:72
+(R) (B) CLGaussRifle
+(R) CLGaussRifle
+(R) Clan Gauss Ammo:64
+(R) (B) CLERLargePulseLaser
+(R) CLERLargePulseLaser
+(R) CLERLargePulseLaser
+(R) (B) CLMediumPulseLaser
+(R) CLMediumPulseLaser
+(R) CLMediumPulseLaser
+(R) CLMediumPulseLaser
+(B) ISTAG
+(B) CLAntiMissileSystem
+CLAntiMissileSystem
+CLAMS Ammo:24
+(R) (B) CLAntiMissileSystem
+(R) CLAntiMissileSystem
+(R) CLAMS Ammo:24
+</Left Side Equipment>
+
+<Right Side Equipment>
+(R) (B) CLStreakLRM20
+(R) CLStreakLRM20
+(R) CLStreakLRM20
+(R) Clan Streak LRM 20 Ammo:72
+(R) (B) CLGaussRifle
+(R) CLGaussRifle
+(R) Clan Gauss Ammo:64
+(B) ISImprovedHeavyGaussRifle
+ISImprovedHeavyGaussRifle
+ISImprovedHeavyGaussRifle
+ISImprovedHeavyGaussRifle
+ISImprovedHeavyGauss Ammo:64
+(R) (B) CLERLargePulseLaser
+(R) CLERLargePulseLaser
+(R) CLERLargePulseLaser
+(R) (B) CLMediumPulseLaser
+(R) CLMediumPulseLaser
+(R) CLMediumPulseLaser
+(R) CLMediumPulseLaser
+(B) CLStreakLRM20
+CLStreakLRM20
+CLStreakLRM20
+Clan Streak LRM 20 Ammo:72
+(B) CLERLargePulseLaser
+CLERLargePulseLaser
+CLERLargePulseLaser
+CLERLargePulseLaser
+(B) ISTAG
+(B) CLAntiMissileSystem
+CLAntiMissileSystem
+CLAMS Ammo:24
+(R) (B) CLAntiMissileSystem
+(R) CLAntiMissileSystem
+(R) CLAMS Ammo:24
+</Right Side Equipment>
+
+<Aft Equipment>
+(B) CLLargePulseLaser
+CLLargePulseLaser
+CLLargePulseLaser
+CLLargePulseLaser
+(B) CLLargePulseLaser
+CLLargePulseLaser
+CLLargePulseLaser
+CLLargePulseLaser
+(B) CLLargePulseLaser
+CLLargePulseLaser
+CLLargePulseLaser
+CLLargePulseLaser
+(B) CLAntiMissileSystem
+CLAntiMissileSystem
+CLAMS Ammo:24
+</Aft Equipment>
+
+<Hull Equipment>
+</Hull Equipment>
+
+<structural_integrity>
+36
+</structural_integrity>
+
+<source>
+PhoenixHeart
+</source>
+
+<tonnage>
+9700.0
+</tonnage>
+
+<designtype>
+1
+</designtype>
+
+<crew>
+215
+</crew>
+
+<officers>
+8
+</officers>
+
+<gunners>
+16
+</gunners>
+
+<passengers>
+0
+</passengers>
+
+<marines>
+0
+</marines>
+
+<battlearmor>
+0
+</battlearmor>
+
+<otherpassenger>
+0
+</otherpassenger>
+
+<life_boat>
+3
+</life_boat>
+
+<escape_pod>
+3
+</escape_pod>
+

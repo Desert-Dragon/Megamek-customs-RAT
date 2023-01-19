@@ -1,0 +1,114 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Moltke MBT
+</Name>
+
+<Model>
+C-Ph (ATM) Mk I
+</Model>
+
+<mul id:>
+2206
+</mul id:>
+
+<year>
+3151
+</year>
+
+<originalBuildYear>
+3151
+</originalBuildYear>
+
+<type>
+Mixed (IS Chassis) Experimental
+</type>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<transporters>
+</transporters>
+
+<cruiseMP>
+4
+</cruiseMP>
+
+<engine_type>
+2
+</engine_type>
+
+<armor_type>
+6
+</armor_type>
+
+<armor_tech>
+1
+</armor_tech>
+
+<armor>
+60
+48
+48
+40
+61
+</armor>
+
+<Body Equipment>
+ISCASE
+Clan Ammo ATM-9 ER
+Clan Ammo ATM-9 ER
+Clan Ammo ATM-9 ER
+Clan Ammo ATM-9 HE
+Clan Ammo ATM-9 HE
+Clan Ammo ATM-9 HE
+Clan Ammo ATM-9
+Clan Ammo ATM-9
+Clan Ammo ATM-9
+Clan Ammo SRM-4 (Clan) Smoke
+Clan Ammo SRM-4
+SponsonTurret
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+CLSRM4(ST)
+</Right Equipment>
+
+<Left Equipment>
+CLSRM4(ST)
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+CLATM9
+CLATM9
+CLATM9
+CLATM9
+</Turret Equipment>
+
+<source>
+Jihad
+</source>
+
+<tonnage>
+75.0
+</tonnage>
+

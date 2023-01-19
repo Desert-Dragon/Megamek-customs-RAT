@@ -1,0 +1,119 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Aero
+</UnitType>
+
+<Name>
+Gotha
+</Name>
+
+<Model>
+C-Ph Mk I
+</Model>
+
+<year>
+3154
+</year>
+
+<originalBuildYear>
+3154
+</originalBuildYear>
+
+<type>
+Mixed (IS Chassis) Advanced
+</type>
+
+<motion_type>
+Aerodyne
+</motion_type>
+
+<transporters>
+</transporters>
+
+<SafeThrust>
+5
+</SafeThrust>
+
+<cockpit_type>
+0
+</cockpit_type>
+
+<heatsinks>
+14
+</heatsinks>
+
+<sink_type>
+1
+</sink_type>
+
+<fuel>
+480
+</fuel>
+
+<engine_type>
+2
+</engine_type>
+
+<armor_type>
+19
+</armor_type>
+
+<armor_tech>
+3
+</armor_tech>
+
+<armor>
+101
+101
+101
+100
+</armor>
+
+<Nose Equipment>
+CLLargePulseLaser
+CLERSmallLaser
+CLERSmallLaser
+</Nose Equipment>
+
+<Left Wing Equipment>
+CLLRM15
+CLArtemisV
+CLERSmallLaser
+</Left Wing Equipment>
+
+<Right Wing Equipment>
+CLLRM15
+CLArtemisV
+CLERSmallLaser
+</Right Wing Equipment>
+
+<Aft Equipment>
+CLERSmallLaser
+CLERSmallLaser
+</Aft Equipment>
+
+<Wings Equipment>
+</Wings Equipment>
+
+<Fuselage Equipment>
+Clan Ammo LRM-15 (Clan) Artemis V-capable
+Clan Ammo LRM-15 (Clan) Artemis V-capable
+</Fuselage Equipment>
+
+<source>
+PhoenixHeart
+</source>
+
+<tonnage>
+60.0
+</tonnage>
+

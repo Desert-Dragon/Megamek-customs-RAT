@@ -1,0 +1,113 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Brutus Assault Tank
+</Name>
+
+<Model>
+C-Ph ALRM Mk II
+</Model>
+
+<year>
+3065
+</year>
+
+<originalBuildYear>
+3065
+</originalBuildYear>
+
+<type>
+Mixed (IS Chassis) Experimental
+</type>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<transporters>
+</transporters>
+
+<cruiseMP>
+4
+</cruiseMP>
+
+<engine_type>
+2
+</engine_type>
+
+<armor_type>
+4
+</armor_type>
+
+<armor_tech>
+7
+</armor_tech>
+
+<armor>
+39
+32
+32
+25
+32
+</armor>
+
+<Body Equipment>
+ISCASE
+Clan Ammo SRM-4 (Clan) Smoke
+CLAMS Ammo
+Clan Ammo SRM-4 (Clan) Artemis-capable
+SponsonTurret
+Clan Ammo LRM-20 (Clan) Artemis-capable
+Clan Ammo LRM-20 (Clan) Artemis-capable
+Clan Ammo LRM-20 (Clan) Artemis-capable
+Clan Ammo LRM-20 (Clan) Artemis-capable
+Clan Ammo LRM-20 (Clan) Artemis-capable
+Clan Ammo LRM-20 (Clan) Artemis-capable
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+CLSRM4(ST)
+CLArtemisIV
+CLAntiMissileSystem(ST)
+</Right Equipment>
+
+<Left Equipment>
+CLSRM4(ST)
+CLArtemisIV
+CLAntiMissileSystem(ST)
+</Left Equipment>
+
+<Rear Equipment>
+CLAntiMissileSystem
+</Rear Equipment>
+
+<Turret Equipment>
+CLArtemisIV
+CLArtemisIV
+CLLRM20
+CLLRM20
+</Turret Equipment>
+
+<source>
+Succession Wars
+</source>
+
+<tonnage>
+75.0
+</tonnage>
+

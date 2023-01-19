@@ -1,0 +1,96 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+VTOL
+</UnitType>
+
+<Name>
+Igor
+</Name>
+
+<Model>
+(Standard)
+</Model>
+
+<year>
+3015
+</year>
+
+<originalBuildYear>
+3015
+</originalBuildYear>
+
+<type>
+IS Level 3
+</type>
+
+<motion_type>
+VTOL
+</motion_type>
+
+<transporters>
+</transporters>
+
+<cruiseMP>
+5
+</cruiseMP>
+
+<engine_type>
+1
+</engine_type>
+
+<armor>
+22
+17
+17
+13
+2
+17
+</armor>
+
+<Body Equipment>
+IS Ammo AC/10
+IS Ammo AC/10
+IS Ammo AC/10
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Rotor Equipment>
+</Rotor Equipment>
+
+<Turret Equipment>
+Autocannon/10
+Autocannon/10
+</Turret Equipment>
+
+<source>
+Mechwarrior 5 Mercenaries
+</source>
+
+<tonnage>
+60.0
+</tonnage>
+
+<fuelType>
+PETROCHEMICALS
+</fuelType>
+

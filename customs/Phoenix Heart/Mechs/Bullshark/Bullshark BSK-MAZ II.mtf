@@ -1,0 +1,155 @@
+Version:1.0
+Bullshark
+BSK-MAZ II
+
+Config:Biped
+techbase:Mixed (Clan Chassis)
+era:3145
+rules level:4
+
+mass:95
+engine:285 XL (Clan) Engine
+structure:Clan Endo Steel
+myomer:Standard
+
+heat sinks:13 Clan Double
+walk mp:3
+jump mp:0
+
+armor:Standard(Inner Sphere)
+LA armor:31
+RA armor:31
+LT armor:31
+RT armor:31
+CT armor:45
+HD armor:9
+LL armor:39
+RL armor:39
+RTL armor:9
+RTR armor:9
+RTC armor:14
+
+Weapons:9
+Thumper Cannon, Left Torso
+LB 10-X AC, Right Arm
+LB 10-X AC, Left Arm
+Ultra AC/5, Right Arm
+Ultra AC/5, Left Arm
+ER Medium Laser, Right Torso
+ER Medium Laser, Right Torso
+ER Medium Laser, Left Torso
+ER Medium Laser, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLUltraAC5
+CLUltraAC5
+CLUltraAC5
+Clan Endo Steel
+Clan Endo Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLUltraAC5
+CLUltraAC5
+CLUltraAC5
+Clan Endo Steel
+Clan Endo Steel
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+CLERMediumLaser
+CLERMediumLaser
+ISThumperCannon
+ISThumperCannon
+ISThumperCannon
+ISThumperCannon
+ISThumperCannon
+ISThumperCannon
+ISThumperCannon
+Clan Endo Steel
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+CLERMediumLaser
+CLERMediumLaser
+CLCASEII
+Clan LB 10-X AC Ammo
+Clan LB 10-X Cluster Ammo
+Clan LB 10-X Cluster Ammo
+Clan Ultra AC/5 Ammo
+Clan Ultra AC/5 Ammo
+ISThumperCannonAmmo
+Clan Endo Steel
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+Clan Endo Steel
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

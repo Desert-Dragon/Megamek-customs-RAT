@@ -1,0 +1,84 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Infantry
+</UnitType>
+
+<Name>
+Jump Platoon
+</Name>
+
+<Model>
+(Laser Rifle (Mauser IIC IAS)) Mk II
+</Model>
+
+<year>
+3153
+</year>
+
+<originalBuildYear>
+3153
+</originalBuildYear>
+
+<type>
+Mixed (IS Chassis) Advanced
+</type>
+
+<motion_type>
+Jump
+</motion_type>
+
+<transporters>
+</transporters>
+
+<Field Guns Equipment>
+</Field Guns Equipment>
+
+<overview>
+Heavy Jump Infantry Royal Gurkha Battalion
+</overview>
+
+<source>
+TRO 3085 (Generic version)
+</source>
+
+<squad_size>
+7
+</squad_size>
+
+<squadn>
+4
+</squadn>
+
+<secondn>
+1
+</secondn>
+
+<Primary>
+Laser Rifle (Mauser IIC IAS)
+</Primary>
+
+<Secondary>
+Autocannon (Bearhunter Superheavy)
+</Secondary>
+
+<antimek>
+8
+</antimek>
+
+<armorKit>
+Clan Armor Kit (All)
+</armorKit>
+
+<armordivisor>
+2.0
+</armordivisor>
+

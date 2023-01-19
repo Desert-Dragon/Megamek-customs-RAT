@@ -1,0 +1,110 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Partisan Air Defense Tank
+</Name>
+
+<Model>
+C-Ph ADA
+</Model>
+
+<year>
+3072
+</year>
+
+<originalBuildYear>
+3072
+</originalBuildYear>
+
+<type>
+Mixed (IS Chassis) Experimental
+</type>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<transporters>
+</transporters>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<engine_type>
+2
+</engine_type>
+
+<armor_type>
+22
+</armor_type>
+
+<armor_tech>
+5
+</armor_tech>
+
+<armor>
+62
+49
+49
+39
+49
+</armor>
+
+<Body Equipment>
+IS Vehicular Stealth
+ISC3SlaveUnit
+Clan LB 5-X Cluster Ammo
+Clan LB 5-X Cluster Ammo
+Clan LB 5-X AC Ammo
+Clan LB 5-X AC Ammo
+CLECMSuite
+Clan Ammo SRM-4 (Clan) Smoke
+Clan Ammo SRM-4
+ISCASE
+CLAMS Ammo
+SponsonTurret
+</Body Equipment>
+
+<Front Equipment>
+CLAntiMissileSystem
+</Front Equipment>
+
+<Right Equipment>
+CLSRM4(ST)
+</Right Equipment>
+
+<Left Equipment>
+CLSRM4(ST)
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+CLLBXAC5
+CLLBXAC5
+CLLBXAC5
+CLLBXAC5
+</Turret Equipment>
+
+<source>
+Clan Invasion
+</source>
+
+<tonnage>
+80.0
+</tonnage>
+

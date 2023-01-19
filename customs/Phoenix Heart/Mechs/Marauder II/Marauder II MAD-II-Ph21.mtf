@@ -1,0 +1,157 @@
+Version:1.0
+Marauder II
+MAD-II-Ph21
+
+Config:Biped
+techbase:Inner Sphere
+era:3075
+source:TRO 3039 - Succession Wars
+rules level:4
+
+mass:100
+engine:300 Light Engine(IS)
+structure:IS Endo-Composite
+myomer:Standard
+
+heat sinks:14 IS Double
+walk mp:3
+jump mp:3
+
+armor:Standard(Inner Sphere)
+LA armor:32
+RA armor:32
+LT armor:32
+RT armor:32
+CT armor:45
+HD armor:9
+LL armor:40
+RL armor:40
+RTL armor:10
+RTR armor:10
+RTC armor:14
+
+Weapons:10
+Gauss Rifle, Right Torso
+Gauss Rifle, Left Torso
+Medium Laser, Right Arm
+Medium Laser, Right Arm
+Medium Laser, Right Arm
+Medium Laser, Right Arm
+Medium Laser, Left Arm
+Medium Laser, Left Arm
+Medium Laser, Left Arm
+Medium Laser, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Medium Laser
+Medium Laser
+Medium Laser
+Medium Laser
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+IS Gauss Ammo
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Medium Laser
+Medium Laser
+Medium Laser
+Medium Laser
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+IS Endo-Composite
+IS Endo-Composite
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGuardianECMSuite
+ISGuardianECMSuite
+IS Gauss Ammo
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+ISGaussRifle
+IS Gauss Ammo
+IS Gauss Ammo
+Jump Jet
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Jump Jet
+Jump Jet
+
+Head:
+Life Support
+Sensors
+Cockpit
+IS Endo-Composite
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Endo-Composite
+IS Endo-Composite
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Endo-Composite
+IS Endo-Composite
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

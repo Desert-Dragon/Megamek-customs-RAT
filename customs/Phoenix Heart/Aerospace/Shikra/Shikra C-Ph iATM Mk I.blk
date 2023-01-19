@@ -1,0 +1,118 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Aero
+</UnitType>
+
+<Name>
+Shikra
+</Name>
+
+<Model>
+C-Ph iATM Mk I
+</Model>
+
+<year>
+3101
+</year>
+
+<originalBuildYear>
+3101
+</originalBuildYear>
+
+<type>
+Mixed (IS Chassis) Experimental
+</type>
+
+<motion_type>
+Aerodyne
+</motion_type>
+
+<transporters>
+</transporters>
+
+<SafeThrust>
+5
+</SafeThrust>
+
+<cockpit_type>
+0
+</cockpit_type>
+
+<heatsinks>
+20
+</heatsinks>
+
+<sink_type>
+1
+</sink_type>
+
+<fuel>
+400
+</fuel>
+
+<engine_type>
+2
+</engine_type>
+
+<armor_type>
+20
+</armor_type>
+
+<armor_tech>
+1
+</armor_tech>
+
+<armor>
+106
+100
+100
+100
+</armor>
+
+<Nose Equipment>
+CLiATM12
+CLiATM12
+CLiATM12
+</Nose Equipment>
+
+<Left Wing Equipment>
+CLiATM12
+</Left Wing Equipment>
+
+<Right Wing Equipment>
+CLiATM12
+</Right Wing Equipment>
+
+<Aft Equipment>
+</Aft Equipment>
+
+<Wings Equipment>
+</Wings Equipment>
+
+<Fuselage Equipment>
+ISCASEII
+Clan Ammo iATM-12
+Clan Ammo iATM-12
+Clan Ammo iATM-12
+Clan Ammo iATM-12
+Clan Ammo iATM-12
+Blue Shield Particle Field Damper
+</Fuselage Equipment>
+
+<source>
+TRO 3145 Free Worlds League - Late Republic
+</source>
+
+<tonnage>
+90.0
+</tonnage>
+

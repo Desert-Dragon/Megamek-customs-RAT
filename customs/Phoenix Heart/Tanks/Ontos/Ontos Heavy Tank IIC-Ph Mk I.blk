@@ -1,0 +1,107 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Ontos Heavy Tank
+</Name>
+
+<Model>
+IIC-Ph Mk I
+</Model>
+
+<year>
+3065
+</year>
+
+<originalBuildYear>
+3065
+</originalBuildYear>
+
+<type>
+Mixed (IS Chassis) Experimental
+</type>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<transporters>
+</transporters>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<engine_type>
+2
+</engine_type>
+
+<armor_type>
+6
+</armor_type>
+
+<armor_tech>
+7
+</armor_tech>
+
+<armor>
+78
+63
+63
+50
+63
+</armor>
+
+<Body Equipment>
+ISTAG
+CLAMS Ammo
+CLCASE
+Clan Ammo SRM-4 (Clan) Smoke
+CLArmoredMotiveSystem
+CLTargeting Computer
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+CLSRM4
+</Right Equipment>
+
+<Left Equipment>
+CLSRM4
+</Left Equipment>
+
+<Rear Equipment>
+CLAntiMissileSystem
+</Rear Equipment>
+
+<Turret Equipment>
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+</Turret Equipment>
+
+<source>
+TRO 3039 - Succession Wars
+</source>
+
+<tonnage>
+95.0
+</tonnage>
+

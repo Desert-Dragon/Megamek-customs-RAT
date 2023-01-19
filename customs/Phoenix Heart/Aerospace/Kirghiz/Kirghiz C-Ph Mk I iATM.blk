@@ -1,0 +1,135 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Aero
+</UnitType>
+
+<Name>
+Kirghiz
+</Name>
+
+<Model>
+C-Ph Mk I iATM
+</Model>
+
+<year>
+3080
+</year>
+
+<originalBuildYear>
+3080
+</originalBuildYear>
+
+<type>
+Clan Level 4
+</type>
+
+<motion_type>
+Aerodyne
+</motion_type>
+
+<transporters>
+</transporters>
+
+<SafeThrust>
+5
+</SafeThrust>
+
+<cockpit_type>
+0
+</cockpit_type>
+
+<heatsinks>
+21
+</heatsinks>
+
+<sink_type>
+1
+</sink_type>
+
+<omnipodheatsinks>
+1
+</omnipodheatsinks>
+
+<fuel>
+400
+</fuel>
+
+<engine_type>
+2
+</engine_type>
+
+<armor_type>
+19
+</armor_type>
+
+<armor_tech>
+2
+</armor_tech>
+
+<omni>
+1
+</omni>
+
+<armor>
+120
+106
+106
+100
+</armor>
+
+<Nose Equipment>
+CLiATM12:OMNI
+CLAntiMissileSystem:OMNI
+</Nose Equipment>
+
+<Left Wing Equipment>
+CLiATM12:OMNI
+CLiATM12:OMNI
+CLAntiMissileSystem:OMNI
+</Left Wing Equipment>
+
+<Right Wing Equipment>
+CLiATM12:OMNI
+CLiATM12:OMNI
+CLAntiMissileSystem:OMNI
+</Right Wing Equipment>
+
+<Aft Equipment>
+</Aft Equipment>
+
+<Wings Equipment>
+</Wings Equipment>
+
+<Fuselage Equipment>
+WatchdogECMSuite:OMNI
+CLAMS Ammo:OMNI
+Clan Ammo iATM-12:OMNI
+Clan Ammo iATM-12:OMNI
+Clan Ammo iATM-12:OMNI
+Clan Ammo iATM-12:OMNI
+Clan Ammo iATM-12:OMNI
+Clan Ammo iATM-12:OMNI
+Clan Ammo iATM-12:OMNI
+Clan Ammo iATM-12:OMNI
+Clan Ammo iATM-12:OMNI
+Clan Ammo iATM-12:OMNI
+CLCASE
+</Fuselage Equipment>
+
+<source>
+PhoenixHeart
+</source>
+
+<tonnage>
+100.0
+</tonnage>
+

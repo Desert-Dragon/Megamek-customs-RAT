@@ -1,0 +1,215 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Dropship
+</UnitType>
+
+<Name>
+Fortress
+</Name>
+
+<Model>
+Ph-IS I
+</Model>
+
+<year>
+3058
+</year>
+
+<originalBuildYear>
+3058
+</originalBuildYear>
+
+<type>
+IS Level 4
+</type>
+
+<motion_type>
+Spheroid
+</motion_type>
+
+<transporters>
+mechbay:12.0:4
+heavyvehiclebay:12.0:4:2
+cargobay:353.0:0:3
+2ndclassquarters:0.0:0
+1stclassquarters:70.0:0
+crewquarters:252.0:0
+</transporters>
+
+<SafeThrust>
+3
+</SafeThrust>
+
+<heatsinks>
+114
+</heatsinks>
+
+<sink_type>
+1
+</sink_type>
+
+<fuel>
+12000
+</fuel>
+
+<engine_type>
+1
+</engine_type>
+
+<armor_type>
+41
+</armor_type>
+
+<armor_tech>
+1
+</armor_tech>
+
+<armor>
+275
+231
+231
+187
+</armor>
+
+<Nose Equipment>
+(B) ISLargeXPulseLaser
+ISLargeXPulseLaser
+ISLargeXPulseLaser
+ISLargeXPulseLaser
+(B) ISLongTom
+ISLongTomAmmo:25
+</Nose Equipment>
+
+<Left Side Equipment>
+(B) LRM 20
+LRM 20
+IS Ammo LRM-20 Artemis-capable:24
+ISArtemisIV
+ISArtemisIV
+(B) ISERLargeLaser
+ISERLargeLaser
+(B) ISMediumPulseLaser
+ISMediumPulseLaser
+ISLargeXPulseLaser
+(R) (B) ISERPPC
+(R) (B) LRM 10
+(R) LRM 10
+(R) IS Ammo LRM-10 Artemis-capable:36
+(R) ISArtemisIV
+(R) ISArtemisIV
+(R) (B) SRM 6
+(R) SRM 6
+(R) IS Ammo SRM-6 Artemis-capable:45
+(R) ISArtemisIV
+(R) ISArtemisIV
+(R) (B) Medium Laser
+(B) ISERPPC
+(B) ISGaussRifle
+ISGaussRifle
+IS Gauss Ammo:32
+(R) (B) ISGaussRifle
+(R) IS Gauss Ammo:16
+(R) (B) ISLargeXPulseLaser
+</Left Side Equipment>
+
+<Right Side Equipment>
+(B) LRM 20
+LRM 20
+IS Ammo LRM-20 Artemis-capable:24
+(B) ISERLargeLaser
+ISERLargeLaser
+(B) ISMediumPulseLaser
+ISMediumPulseLaser
+ISLargeXPulseLaser
+(B) ISERPPC
+(B) ISGaussRifle
+ISGaussRifle
+IS Gauss Ammo:32
+ISArtemisIV
+ISArtemisIV
+(R) (B) ISERPPC
+(R) (B) LRM 10
+(R) LRM 10
+(R) IS Ammo LRM-10 Artemis-capable:36
+(R) (B) SRM 6
+(R) SRM 6
+(R) IS Ammo SRM-6 Artemis-capable:45
+(R) (B) Medium Laser
+(R) (B) ISGaussRifle
+(R) IS Gauss Ammo:16
+(R) ISArtemisIV
+(R) ISArtemisIV
+(R) ISArtemisIV
+(R) ISArtemisIV
+(R) (B) ISLargeXPulseLaser
+</Right Side Equipment>
+
+<Aft Equipment>
+(B) ISMediumPulseLaser
+ISMediumPulseLaser
+</Aft Equipment>
+
+<Hull Equipment>
+</Hull Equipment>
+
+<structural_integrity>
+15
+</structural_integrity>
+
+<source>
+TRO 3057R - Clan Invasion
+</source>
+
+<tonnage>
+6000.0
+</tonnage>
+
+<designtype>
+1
+</designtype>
+
+<crew>
+163
+</crew>
+
+<officers>
+7
+</officers>
+
+<gunners>
+9
+</gunners>
+
+<passengers>
+0
+</passengers>
+
+<marines>
+0
+</marines>
+
+<battlearmor>
+0
+</battlearmor>
+
+<otherpassenger>
+0
+</otherpassenger>
+
+<life_boat>
+2
+</life_boat>
+
+<escape_pod>
+10
+</escape_pod>
+

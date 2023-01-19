@@ -1,0 +1,80 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Infantry
+</UnitType>
+
+<Name>
+Motorized Platoon
+</Name>
+
+<Model>
+(Fieldworks) Mk II
+</Model>
+
+<year>
+3045
+</year>
+
+<originalBuildYear>
+3045
+</originalBuildYear>
+
+<type>
+Mixed (IS Chassis) Advanced
+</type>
+
+<motion_type>
+Motorized
+</motion_type>
+
+<transporters>
+</transporters>
+
+<Field Guns Equipment>
+</Field Guns Equipment>
+
+<overview>
+Combat Engineer Royal Engineers; 1st Lyran Royal Guards RCT
+</overview>
+
+<source>
+PhoenixHeart
+</source>
+
+<squad_size>
+7
+</squad_size>
+
+<squadn>
+2
+</squadn>
+
+<Primary>
+Laser Rifle (Mauser IIC IAS)
+</Primary>
+
+<antimek>
+8
+</antimek>
+
+<armorKit>
+Clan Armor Kit (All)
+</armorKit>
+
+<armordivisor>
+2.0
+</armordivisor>
+
+<specialization>
+32
+</specialization>
+

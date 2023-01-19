@@ -1,0 +1,156 @@
+Version:1.0
+Avatar
+C-Ph C3M Mk I
+
+Config:Biped Omnimech
+techbase:Mixed (IS Chassis)
+era:3154
+source:PhoenixHeart
+rules level:3
+
+mass:70
+engine:280 XL Engine(IS)
+structure:IS Standard
+myomer:Standard
+
+heat sinks:16 Clan Double
+base chassis heat sinks:10
+walk mp:4
+jump mp:4
+
+armor:Standard(Inner Sphere)
+LA armor:16
+RA armor:16
+LT armor:22
+RT armor:22
+CT armor:30
+HD armor:9
+LL armor:26
+RL armor:26
+RTL armor:8
+RTR armor:8
+RTC armor:9
+
+Weapons:8
+Medium Laser, Center Torso
+Medium Laser, Center Torso
+C3 Computer (Master), Right Torso
+Improved ATM 12, Right Arm
+Medium Laser, Left Arm
+Medium Laser, Left Arm
+Medium Laser, Left Arm
+Medium Laser, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+CLDoubleHeatSink (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+Medium Laser (OMNIPOD)
+Medium Laser (OMNIPOD)
+Medium Laser (OMNIPOD)
+Medium Laser (OMNIPOD)
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+CLiATM12 (OMNIPOD)
+CLiATM12 (OMNIPOD)
+CLiATM12 (OMNIPOD)
+CLiATM12 (OMNIPOD)
+CLiATM12 (OMNIPOD)
+ISCASEII (OMNIPOD)
+Clan Ammo iATM-12 ER (OMNIPOD)
+Clan Ammo iATM-12 (OMNIPOD)
+Clan Ammo iATM-12 HE (OMNIPOD)
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Jump Jet (OMNIPOD)
+Jump Jet (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+CLTargeting Computer (OMNIPOD)
+CLTargeting Computer (OMNIPOD)
+ISAngelECMSuite (OMNIPOD)
+ISAngelECMSuite (OMNIPOD)
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISC3MasterUnit (OMNIPOD)
+ISC3MasterUnit (OMNIPOD)
+ISC3MasterUnit (OMNIPOD)
+ISC3MasterUnit (OMNIPOD)
+ISC3MasterUnit (OMNIPOD)
+Jump Jet (OMNIPOD)
+Jump Jet (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Medium Laser
+Medium Laser
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLActiveProbe (OMNIPOD)
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

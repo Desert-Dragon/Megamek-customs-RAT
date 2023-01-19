@@ -1,0 +1,155 @@
+Version:1.0
+Berserker
+BRZ-H-Kicker
+
+Config:Biped
+techbase:Mixed (IS Chassis)
+era:3150
+source:TRO 3055 - Civil War
+rules level:4
+
+mass:100
+engine:400 XL (Clan) Engine
+structure:IS Standard
+myomer:Triple-Strength
+
+heat sinks:12 Clan Double
+walk mp:4
+jump mp:4
+
+armor:Hardened(Inner Sphere)
+LA armor:24
+RA armor:24
+LT armor:24
+RT armor:24
+CT armor:33
+HD armor:9
+LL armor:29
+RL armor:29
+RTL armor:7
+RTR armor:7
+RTC armor:10
+
+Weapons:8
+Medium Pulse Laser, Right Arm
+Medium Pulse Laser, Right Arm
+Small Pulse Laser, Right Torso
+Small Pulse Laser, Right Torso
+Small Pulse Laser, Right Arm
+Small Pulse Laser, Right Arm
+Micro Pulse Laser, Right Arm
+Micro Pulse Laser, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Chameleon Light Polarization Shield
+Mek Null Signature System
+ISMediumShield
+ISMediumShield
+ISMediumShield
+ISMediumShield
+ISMediumShield
+Triple Strength Myomer
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Chameleon Light Polarization Shield
+Mek Null Signature System
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLSmallPulseLaser
+CLSmallPulseLaser
+CLMicroPulseLaser
+CLMicroPulseLaser
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+CLPartialWing
+CLPartialWing
+CLPartialWing
+Chameleon Light Polarization Shield
+Mek Null Signature System
+Triple Strength Myomer
+Triple Strength Myomer
+Triple Strength Myomer
+Triple Strength Myomer
+Triple Strength Myomer
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+CLPartialWing
+CLPartialWing
+CLPartialWing
+Chameleon Light Polarization Shield
+Mek Null Signature System
+Jump Jet
+Jump Jet
+Jump Jet
+CLSmallPulseLaser
+CLSmallPulseLaser
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Jump Jet
+Mek Null Signature System
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLECMSuite
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Chameleon Light Polarization Shield
+Mek Null Signature System
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Chameleon Light Polarization Shield
+Mek Null Signature System
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

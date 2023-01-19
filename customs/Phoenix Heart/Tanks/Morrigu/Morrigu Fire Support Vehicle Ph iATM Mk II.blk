@@ -1,0 +1,111 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Morrigu Fire Support Vehicle
+</Name>
+
+<Model>
+Ph iATM Mk II
+</Model>
+
+<year>
+3152
+</year>
+
+<originalBuildYear>
+3152
+</originalBuildYear>
+
+<type>
+Clan Level 4
+</type>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<transporters>
+</transporters>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<engine_type>
+2
+</engine_type>
+
+<armor_type>
+4
+</armor_type>
+
+<armor_tech>
+7
+</armor_tech>
+
+<armor>
+37
+28
+28
+23
+28
+</armor>
+
+<Body Equipment>
+SponsonTurret
+Clan Ammo SRM-4
+Clan Ammo SRM-4 (Clan) Smoke
+CLAMS Ammo
+Clan Ammo iATM-9 ER
+Clan Ammo iATM-9 ER
+Clan Ammo iATM-9 ER
+Clan Ammo iATM-9 ER
+Clan Ammo iATM-9
+Clan Ammo iATM-9
+Clan Ammo iATM-9
+Clan Ammo iATM-9 HE
+Clan Ammo iATM-9 HE
+Clan Ammo iATM-9 HE
+Clan Ammo iATM-9 IIW
+WatchdogECMSuite
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+CLAntiMissileSystem(ST)
+CLSRM4(ST)
+</Right Equipment>
+
+<Left Equipment>
+CLSRM4(ST)
+CLAntiMissileSystem(ST)
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+CLiATM9
+CLiATM9
+CLiATM9
+CLiATM9
+</Turret Equipment>
+
+<tonnage>
+80.0
+</tonnage>
+

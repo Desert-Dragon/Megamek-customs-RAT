@@ -1,0 +1,248 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Dropship
+</UnitType>
+
+<Name>
+Hercules
+</Name>
+
+<Model>
+IS-Ph Mk II
+</Model>
+
+<year>
+3154
+</year>
+
+<originalBuildYear>
+3053
+</originalBuildYear>
+
+<type>
+IS Level 3
+</type>
+
+<motion_type>
+Spheroid
+</motion_type>
+
+<transporters>
+heavyvehiclebay:15.0:3:1
+mechbay:15.0:3
+asfbay:2.0:2:3
+2ndclassquarters:0.0:0
+1stclassquarters:50.0:0
+crewquarters:203.0:0
+</transporters>
+
+<SafeThrust>
+3
+</SafeThrust>
+
+<heatsinks>
+164
+</heatsinks>
+
+<sink_type>
+1
+</sink_type>
+
+<fuel>
+4350
+</fuel>
+
+<engine_type>
+1
+</engine_type>
+
+<armor_type>
+20
+</armor_type>
+
+<armor_tech>
+1
+</armor_tech>
+
+<armor>
+535
+451
+451
+365
+</armor>
+
+<Nose Equipment>
+(B) ISLongTom
+ISLongTom
+ISLongTomAmmo:40
+(B) ISLightGaussRifle
+ISLightGaussRifle
+ISLightGaussRifle
+ISLightGaussRifle
+IS Light Gauss Ammo:64
+(B) ISLightGaussRifle
+ISLightGaussRifle
+ISLightGaussRifle
+ISLightGaussRifle
+IS Light Gauss Ammo:64
+(B) ISAntiMissileSystem
+ISAntiMissileSystem
+ISAMS Ammo:48
+</Nose Equipment>
+
+<Left Side Equipment>
+(B) ISGaussRifle
+ISGaussRifle
+IS Gauss Ammo:32
+(R) (B) ISGaussRifle
+(R) ISGaussRifle
+(R) IS Gauss Ammo:32
+(B) ISERPPC
+ISERPPC
+(R) (B) Heavy PPC
+(R) Heavy PPC
+(B) ISStreakSRM6
+ISStreakSRM6
+IS Streak SRM 6 Ammo:30
+(R) (B) ISStreakSRM6
+(R) ISStreakSRM6
+(R) IS Streak SRM 6 Ammo:30
+(B) Extended LRM 20
+Extended LRM 20
+IS Ammo Extended LRM-20:32
+(R) (B) Extended LRM 20
+(R) Extended LRM 20
+(R) IS Ammo Extended LRM-20:32
+(B) ISAntiMissileSystem
+ISAntiMissileSystem
+ISAMS Ammo:48
+(R) (B) ISAntiMissileSystem
+(R) ISAntiMissileSystem
+(R) ISAMS Ammo:48
+(B) ISPlasmaRifle
+ISPlasmaRifle
+ISPlasmaRifleAmmo:40
+(R) (B) ISPlasmaRifle
+(R) ISPlasmaRifle
+(R) ISPlasmaRifleAmmo:40
+</Left Side Equipment>
+
+<Right Side Equipment>
+(B) ISGaussRifle
+ISGaussRifle
+IS Gauss Ammo:32
+(R) (B) ISGaussRifle
+(R) ISGaussRifle
+(R) IS Gauss Ammo:32
+(B) ISERPPC
+ISERPPC
+(R) (B) Heavy PPC
+(R) Heavy PPC
+(B) ISStreakSRM6
+ISStreakSRM6
+IS Streak SRM 6 Ammo:30
+(R) (B) ISStreakSRM6
+(R) ISStreakSRM6
+(R) IS Streak SRM 6 Ammo:30
+(B) Extended LRM 20
+Extended LRM 20
+IS Ammo Extended LRM-20:32
+(R) (B) Extended LRM 20
+(R) Extended LRM 20
+(R) IS Ammo Extended LRM-20:32
+(B) ISAntiMissileSystem
+ISAntiMissileSystem
+ISAMS Ammo:48
+(R) (B) ISAntiMissileSystem
+(R) ISAntiMissileSystem
+(R) ISAMS Ammo:48
+(B) ISPlasmaRifle
+ISPlasmaRifle
+ISPlasmaRifleAmmo:40
+(R) (B) ISPlasmaRifle
+(R) ISPlasmaRifle
+(R) ISPlasmaRifleAmmo:40
+</Right Side Equipment>
+
+<Aft Equipment>
+(B) ISLargeVSPLaser
+ISLargeVSPLaser
+ISLargeVSPLaser
+ISLargeVSPLaser
+(B) ISMediumVSPLaser
+ISMediumVSPLaser
+ISMediumVSPLaser
+ISMediumVSPLaser
+(B) ISLargeVSPLaser
+ISLargeVSPLaser
+(B) ISAntiMissileSystem
+ISAntiMissileSystem
+ISAMS Ammo:48
+</Aft Equipment>
+
+<Hull Equipment>
+ISAngelECMSuite
+BloodhoundActiveProbe
+</Hull Equipment>
+
+<structural_integrity>
+24
+</structural_integrity>
+
+<source>
+PhoenixHeart
+</source>
+
+<tonnage>
+7200.0
+</tonnage>
+
+<designtype>
+1
+</designtype>
+
+<crew>
+187
+</crew>
+
+<officers>
+5
+</officers>
+
+<gunners>
+10
+</gunners>
+
+<passengers>
+0
+</passengers>
+
+<marines>
+0
+</marines>
+
+<battlearmor>
+0
+</battlearmor>
+
+<otherpassenger>
+0
+</otherpassenger>
+
+<life_boat>
+2
+</life_boat>
+
+<escape_pod>
+2
+</escape_pod>
+

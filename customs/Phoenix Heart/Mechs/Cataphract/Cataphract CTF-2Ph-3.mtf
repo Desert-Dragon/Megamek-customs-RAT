@@ -1,0 +1,153 @@
+Version:1.0
+Cataphract
+CTF-2Ph-3
+
+Config:Biped
+techbase:Mixed (IS Chassis)
+era:3068
+source:TRO 3039 - Succession Wars
+rules level:4
+
+mass:70
+engine:280 Light Engine(IS)
+structure:IS Endo Steel
+myomer:Standard
+
+heat sinks:12 IS Double
+walk mp:4
+jump mp:4
+
+armor:Hardened(Inner Sphere)
+LA armor:15
+RA armor:15
+LT armor:16
+RT armor:16
+CT armor:24
+HD armor:9
+LL armor:20
+RL armor:20
+RTL armor:5
+RTR armor:5
+RTC armor:7
+
+Weapons:6
+SRM 6, Left Arm
+Light AC/5, Left Arm
+Light AC/5, Right Arm
+Medium Pulse Laser, Center Torso
+Medium Pulse Laser, Center Torso
+Medium Pulse Laser, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLSRM6
+Light Auto Cannon/5
+Light Auto Cannon/5
+IS Endo Steel
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+IS Endo Steel
+Light Auto Cannon/5
+Light Auto Cannon/5
+IS Endo Steel
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+ISCASEII
+IS Precision Ammo LAC/5
+IS Precision Ammo LAC/5
+Clan Ammo SRM-6
+Clan Ammo SRM-6 (Clan) Inferno
+Jump Jet
+Jump Jet
+IS Armor-Piercing Ammo LAC/5
+-Empty-
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+Jump Jet
+Jump Jet
+IS Endo Steel
+IS Endo Steel
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLMediumPulseLaser (R)
+CLMediumPulseLaser
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLMediumPulseLaser
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Endo Steel
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Endo Steel
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

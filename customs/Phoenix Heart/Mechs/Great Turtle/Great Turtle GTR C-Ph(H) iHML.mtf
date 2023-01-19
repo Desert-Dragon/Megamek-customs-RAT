@@ -1,0 +1,155 @@
+Version:1.1
+Great Turtle
+GTR C-Ph(H) iHML
+
+Config:Quad
+techbase:Mixed (Clan Chassis)
+era:3073
+source:TRO 3055 - Jihad
+rules level:4
+
+mass:100
+engine:400 XL (Clan) Engine
+structure:IS Standard
+myomer:Standard
+cockpit:Torso-Mounted Cockpit
+gyro:Compact Gyro
+
+heat sinks:23 Clan Double
+walk mp:4
+jump mp:4
+
+armor:Hardened(Inner Sphere)
+FLL armor:25
+FRL armor:25
+LT armor:19
+RT armor:19
+CT armor:28
+HD armor:9
+RLL armor:25
+RRL armor:25
+RTL armor:6
+RTR armor:6
+RTC armor:9
+
+Weapons:6
+Improved Heavy Medium Laser, Right Torso
+Improved Heavy Medium Laser, Right Torso
+Improved Heavy Medium Laser, Right Torso
+Improved Heavy Medium Laser, Left Torso
+Improved Heavy Medium Laser, Left Torso
+Improved Heavy Medium Laser, Left Torso
+
+Front Left Leg:
+Hip (ARMORED)
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Front Right Leg:
+Hip (ARMORED)
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Life Support
+ISQuadTurret
+CLImprovedMediumHeavyLaser
+CLImprovedMediumHeavyLaser
+CLImprovedMediumHeavyLaser
+CLImprovedMediumHeavyLaser
+CLImprovedMediumHeavyLaser
+CLImprovedMediumHeavyLaser
+CLDoubleHeatSink
+CLDoubleHeatSink
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Life Support
+ISQuadTurret
+CLImprovedMediumHeavyLaser
+CLImprovedMediumHeavyLaser
+CLImprovedMediumHeavyLaser
+CLImprovedMediumHeavyLaser
+CLImprovedMediumHeavyLaser
+CLImprovedMediumHeavyLaser
+CLDoubleHeatSink
+CLDoubleHeatSink
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Cockpit
+Sensors
+Jump Jet
+Jump Jet
+
+Head:
+Sensors
+Sensors
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Rear Left Leg:
+Hip (ARMORED)
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Rear Right Leg:
+Hip (ARMORED)
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

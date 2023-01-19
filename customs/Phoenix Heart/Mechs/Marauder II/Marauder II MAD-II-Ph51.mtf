@@ -1,0 +1,154 @@
+Version:1.0
+Marauder II
+MAD-II-Ph51
+
+Config:Biped
+techbase:Mixed (Clan Chassis)
+era:3075
+source:TRO 3039 - Succession Wars
+rules level:4
+
+mass:100
+engine:400 XL (Clan) Engine
+structure:Clan Endo Steel
+myomer:Standard
+
+heat sinks:18 Clan Double
+walk mp:4
+jump mp:4
+
+armor:Ferro-Lamellor(Clan)
+LA armor:34
+RA armor:34
+LT armor:32
+RT armor:32
+CT armor:47
+HD armor:9
+LL armor:42
+RL armor:42
+RTL armor:10
+RTR armor:10
+RTC armor:15
+
+Weapons:7
+Medium Pulse Laser, Left Arm
+ER Medium Laser, Left Arm
+ER Medium Laser, Left Arm
+Medium Pulse Laser, Right Arm
+ER Medium Laser, Right Arm
+ER Medium Laser, Right Arm
+Ultra AC/20, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLMediumPulseLaser
+CLERMediumLaser
+CLERMediumLaser
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+Clan Ferro-Lamellor
+Clan Ferro-Lamellor
+Clan Ferro-Lamellor
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLMediumPulseLaser
+CLERMediumLaser
+CLERMediumLaser
+Clan Endo Steel
+Clan Endo Steel
+Clan Ferro-Lamellor
+Clan Endo Steel
+Clan Ferro-Lamellor
+Clan Ferro-Lamellor
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+CLCASEII
+Clan Ultra AC/20 Ammo
+Clan Ultra AC/20 Ammo
+Clan Ultra AC/20 Ammo
+Clan Ferro-Lamellor
+Clan Ferro-Lamellor
+Clan Ferro-Lamellor
+Clan Ferro-Lamellor
+Jump Jet
+Clan Endo Steel
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+CLUltraAC20
+CLUltraAC20
+CLUltraAC20
+CLUltraAC20
+CLUltraAC20
+CLUltraAC20
+CLUltraAC20
+CLUltraAC20
+Jump Jet
+Clan Ferro-Lamellor
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Jump Jet
+Jump Jet
+
+Head:
+Life Support
+Sensors
+Cockpit
+Clan Ferro-Lamellor
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

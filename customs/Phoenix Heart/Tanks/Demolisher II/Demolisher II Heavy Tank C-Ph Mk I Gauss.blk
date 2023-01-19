@@ -1,0 +1,113 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Demolisher II Heavy Tank
+</Name>
+
+<Model>
+C-Ph Mk I Gauss
+</Model>
+
+<mul id:>
+866
+</mul id:>
+
+<year>
+3070
+</year>
+
+<originalBuildYear>
+3070
+</originalBuildYear>
+
+<type>
+Mixed (IS Chassis) Experimental
+</type>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<transporters>
+</transporters>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<engine_type>
+2
+</engine_type>
+
+<armor_type>
+6
+</armor_type>
+
+<armor_tech>
+7
+</armor_tech>
+
+<armor>
+73
+59
+59
+47
+59
+</armor>
+
+<Body Equipment>
+CLArmoredMotiveSystem
+CLTargeting Computer
+SponsonTurret
+ISCASE
+Clan Ammo SRM-4 (Clan) Smoke
+WatchdogECMSuite
+CLAMS Ammo
+Clan Gauss Ammo
+Clan Gauss Ammo
+Clan Gauss Ammo
+Clan Ammo SRM-4 (Clan) Artemis V-capable
+</Body Equipment>
+
+<Front Equipment>
+CLAntiMissileSystem
+</Front Equipment>
+
+<Right Equipment>
+CLArtemisV(ST)
+CLSRM4(ST)
+</Right Equipment>
+
+<Left Equipment>
+CLArtemisV(ST)
+CLSRM4(ST)
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+CLGaussRifle
+CLGaussRifle
+</Turret Equipment>
+
+<source>
+Clan Invasion
+</source>
+
+<tonnage>
+100.0
+</tonnage>
+

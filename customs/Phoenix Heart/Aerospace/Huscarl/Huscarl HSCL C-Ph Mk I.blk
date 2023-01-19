@@ -1,0 +1,124 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Aero
+</UnitType>
+
+<Name>
+Huscarl
+</Name>
+
+<Model>
+HSCL C-Ph Mk I
+</Model>
+
+<year>
+3151
+</year>
+
+<originalBuildYear>
+3151
+</originalBuildYear>
+
+<type>
+Mixed (IS Chassis) Experimental
+</type>
+
+<motion_type>
+Aerodyne
+</motion_type>
+
+<transporters>
+</transporters>
+
+<SafeThrust>
+5
+</SafeThrust>
+
+<cockpit_type>
+2
+</cockpit_type>
+
+<heatsinks>
+21
+</heatsinks>
+
+<sink_type>
+1
+</sink_type>
+
+<omnipodheatsinks>
+7
+</omnipodheatsinks>
+
+<fuel>
+400
+</fuel>
+
+<engine_type>
+2
+</engine_type>
+
+<armor_type>
+20
+</armor_type>
+
+<armor_tech>
+1
+</armor_tech>
+
+<omni>
+1
+</omni>
+
+<armor>
+105
+104
+104
+103
+</armor>
+
+<Nose Equipment>
+CLLargePulseLaser:OMNI
+CLMediumPulseLaser:OMNI
+CLSmallPulseLaser:OMNI
+</Nose Equipment>
+
+<Left Wing Equipment>
+CLMediumPulseLaser:OMNI
+CLMediumPulseLaser:OMNI
+CLMediumPulseLaser:OMNI
+</Left Wing Equipment>
+
+<Right Wing Equipment>
+CLMediumPulseLaser:OMNI
+CLMediumPulseLaser:OMNI
+CLMediumPulseLaser:OMNI
+</Right Wing Equipment>
+
+<Aft Equipment>
+</Aft Equipment>
+
+<Wings Equipment>
+</Wings Equipment>
+
+<Fuselage Equipment>
+ISTargeting Computer:OMNI
+</Fuselage Equipment>
+
+<source>
+TRO 3067 - Jihad
+</source>
+
+<tonnage>
+75.0
+</tonnage>
+

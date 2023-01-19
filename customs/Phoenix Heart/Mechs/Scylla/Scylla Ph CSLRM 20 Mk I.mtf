@@ -1,0 +1,154 @@
+Version:1.0
+Scylla
+Ph CSLRM 20 Mk I
+
+Config:Biped
+techbase:Clan
+era:3071
+source:TRO 3067
+rules level:4
+
+mass:100
+engine:400 XL (Clan) Engine(IS)
+structure:Clan Endo Steel
+myomer:Standard
+
+heat sinks:14 Clan Double
+walk mp:4
+jump mp:4
+
+armor:Ferro-Fibrous(Clan)
+LA armor:32
+RA armor:32
+LT armor:33
+RT armor:33
+CT armor:45
+HD armor:9
+LL armor:42
+RL armor:42
+RTL armor:9
+RTR armor:9
+RTC armor:11
+
+Weapons:7
+Streak LRM 20, Left Arm
+Streak LRM 20, Right Arm
+Medium Pulse Laser, Left Torso
+Medium Pulse Laser, Left Torso
+Medium Pulse Laser, Right Torso
+Medium Pulse Laser, Right Torso
+Medium Pulse Laser, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLStreakLRM20
+CLStreakLRM20
+CLStreakLRM20
+CLStreakLRM20
+CLStreakLRM20
+Clan Streak LRM 20 Ammo
+Clan Streak LRM 20 Ammo
+Clan Endo Steel
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLStreakLRM20
+CLStreakLRM20
+CLStreakLRM20
+CLStreakLRM20
+CLStreakLRM20
+Clan Streak LRM 20 Ammo
+Clan Streak LRM 20 Ammo
+-Empty-
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+CLMediumPulseLaser
+CLMediumPulseLaser
+Clan Ferro-Fibrous
+Clan Ferro-Fibrous
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+CLMediumPulseLaser
+CLMediumPulseLaser
+Clan Ferro-Fibrous
+Clan Ferro-Fibrous
+Clan Ferro-Fibrous
+Clan Ferro-Fibrous
+Clan Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLMediumPulseLaser
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

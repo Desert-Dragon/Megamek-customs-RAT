@@ -1,0 +1,159 @@
+Version:1.1
+SuperHeavy Test
+C-Ph ELRM Mk I
+
+Config:Biped
+techbase:Mixed (IS Chassis)
+era:3145
+source:PhoenixHeart
+rules level:4
+
+mass:200
+engine:400 XL (Clan) Engine
+structure:IS Endo Steel
+myomer:Standard
+cockpit:Superheavy Cockpit
+gyro:Superheavy Gyro
+
+heat sinks:22 Clan Double
+walk mp:2
+jump mp:0
+
+armor:Standard(Inner Sphere)
+LA armor:60
+RA armor:60
+LT armor:59
+RT armor:59
+CT armor:83
+HD armor:12
+LL armor:77
+RL armor:77
+RTL armor:19
+RTR armor:19
+RTC armor:27
+
+Weapons:10
+Extended LRM 20, Right Arm
+Extended LRM 20, Right Torso
+Extended LRM 20, Left Torso
+Extended LRM 20, Left Arm
+ER Medium Laser, Left Arm
+ER Medium Laser, Right Arm
+ER Medium Laser, Right Arm
+ER Medium Laser, Left Arm
+ER Medium Laser, Left Arm
+ER Medium Laser, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Extended LRM 20
+Extended LRM 20
+Extended LRM 20
+Extended LRM 20
+CLERMediumLaser
+CLERMediumLaser
+CLERMediumLaser
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Extended LRM 20
+Extended LRM 20
+Extended LRM 20
+Extended LRM 20
+CLERMediumLaser
+CLERMediumLaser
+CLERMediumLaser
+-Empty-
+
+Left Torso:
+Fusion Engine
+Extended LRM 20
+Extended LRM 20
+Extended LRM 20
+Extended LRM 20
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+-Empty-
+
+Right Torso:
+Fusion Engine
+Extended LRM 20
+Extended LRM 20
+Extended LRM 20
+Extended LRM 20
+IS Ammo Extended LRM-20|IS Ammo Extended LRM-20
+IS Ammo Extended LRM-20|IS Ammo Extended LRM-20
+IS Ammo Extended LRM-20|IS Ammo Extended LRM-20
+IS Ammo Extended LRM-20|IS Ammo Extended LRM-20
+IS Ammo Extended LRM-20|IS Ammo Extended LRM-20
+IS Ammo Extended LRM-20|IS Ammo Extended LRM-20
+ISCASEII
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+CLTargeting Computer
+CLDoubleHeatSink
+CLDoubleHeatSink
+ISAngelECMSuite
+-Empty-
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+IS Endo Steel
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

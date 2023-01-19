@@ -1,0 +1,94 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+VTOL
+</UnitType>
+
+<Name>
+Yellow Jacket Gunship
+</Name>
+
+<Model>
+IIC-3
+</Model>
+
+<year>
+3070
+</year>
+
+<originalBuildYear>
+3070
+</originalBuildYear>
+
+<type>
+Mixed (IS Chassis) Advanced
+</type>
+
+<motion_type>
+VTOL
+</motion_type>
+
+<transporters>
+</transporters>
+
+<cruiseMP>
+10
+</cruiseMP>
+
+<engine_type>
+2
+</engine_type>
+
+<armor_type>
+16
+</armor_type>
+
+<armor_tech>
+6
+</armor_tech>
+
+<armor>
+18
+13
+13
+10
+2
+</armor>
+
+<Body Equipment>
+ISC3SlaveUnit
+ISTargeting Computer
+</Body Equipment>
+
+<Front Equipment>
+CLERPPC
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Rotor Equipment>
+</Rotor Equipment>
+
+<source>
+Clan Invasion
+</source>
+
+<tonnage>
+30.0
+</tonnage>
+

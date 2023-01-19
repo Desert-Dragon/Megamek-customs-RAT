@@ -1,0 +1,103 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Manticore Heavy Tank
+</Name>
+
+<Model>
+Ph-LPL Mk III
+</Model>
+
+<year>
+3058
+</year>
+
+<originalBuildYear>
+3058
+</originalBuildYear>
+
+<type>
+IS Level 4
+</type>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<transporters>
+</transporters>
+
+<cruiseMP>
+4
+</cruiseMP>
+
+<engine_type>
+2
+</engine_type>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+1
+</armor_tech>
+
+<armor>
+59
+48
+48
+38
+48
+</armor>
+
+<Body Equipment>
+ISTAG
+IS Ammo SRM-6 Artemis-capable
+ISTargeting Computer
+IS Ammo SRM-6 Smoke
+ISCASE
+IS Ammo LRM-15 Artemis-capable
+IS Ammo LRM-15 Semi-guided
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+ISLargePulseLaser
+ISArtemisIV
+SRM 6
+ISArtemisIV
+LRM 15
+</Turret Equipment>
+
+<source>
+PhoenixHeart
+</source>
+
+<tonnage>
+60.0
+</tonnage>
+

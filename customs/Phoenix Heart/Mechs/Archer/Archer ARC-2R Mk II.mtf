@@ -1,0 +1,166 @@
+Version:1.0
+Archer
+ARC-2R Mk II
+
+Config:Biped
+techbase:Inner Sphere
+era:3058
+source:TRO 3039 - Age of War
+rules level:4
+
+mass:70
+engine:280 Fusion Engine(IS)
+structure:IS Standard
+myomer:Standard
+
+heat sinks:10 IS Double
+walk mp:4
+jump mp:0
+
+armor:Standard(Inner Sphere)
+LA armor:22
+RA armor:22
+LT armor:24
+RT armor:24
+CT armor:33
+HD armor:9
+LL armor:26
+RL armor:26
+RTL armor:6
+RTR armor:6
+RTC armor:10
+
+Weapons:6
+Medium Laser, Left Arm
+Medium Laser, Right Arm
+LRM 20, Left Torso
+LRM 20, Right Torso
+Medium Laser, Center Torso
+Medium Laser, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Medium Laser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Medium Laser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+LRM 20
+LRM 20
+LRM 20
+LRM 20
+LRM 20
+IS Ammo LRM-20
+IS Ammo LRM-20
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+LRM 20
+LRM 20
+LRM 20
+LRM 20
+LRM 20
+IS Ammo LRM-20
+IS Ammo LRM-20
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Medium Laser (R)
+Medium Laser (R)
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+overview: First developed for the SLDF, the Archer would become a mainstay of many heavy support lances. Tough and reliable, the Archer is commonly taken as a Command 'Mech by many officers, where it can contribute to battle at range while keeping their MechWarrior away from the thickest combat.
+capabilities: Twin LRM-20 racks set this 'Mech firmly in the fire-support role. Recognition of the missile's innaccuracy at short range mandated the inclusion of four medium lasers, while powerful hand actuators make the Archer a dangerous brawler during physical engagements. As such an archtypal fire-support 'Mech, the Archer pairs well with dedicated spotters for its massive missile barrages. When combined with well-trained squads of Infantry, VTOLs, or even other 'Mechs, Archers can easily disable their chosen targets without ever being in direct sight of them.
+deployment: With more than a hundred thousand built prior to the Succession Wars, the Archer can be found within the entire Sphere and Periphery. Many factories still produce the Archer, though a few have developed their own variants of the venerable design. The base variant is still regarded as highly performant, however, and certain manufacturers such as Earthwerks Incorporated in the Free Worlds League continue to solely produce the ARC-2R.
+systemmanufacturer:CHASSIS:Earthwerks
+systemmode:CHASSIS:Archer
+systemmanufacturer:ENGINE:VOX
+systemmode:ENGINE:280
+systemmanufacturer:ARMOR:Maximillian
+systemmode:ARMOR:100
+systemmanufacturer:COMMUNICATIONS:Neil
+systemmode:COMMUNICATIONS:9000
+systemmanufacturer:TARGETING:RCA
+systemmode:TARGETING:Instatrac Mark XII
+

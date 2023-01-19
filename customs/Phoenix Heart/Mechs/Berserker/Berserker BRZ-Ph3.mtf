@@ -1,0 +1,153 @@
+Version:1.0
+Berserker
+BRZ-Ph3
+
+Config:Biped
+techbase:Mixed (IS Chassis)
+era:3067
+source:TRO 3055 - Civil War
+rules level:4
+
+mass:100
+engine:300 XL Engine(IS)
+structure:IS Endo-Composite
+myomer:Triple-Strength
+
+heat sinks:16 Clan Double
+walk mp:3
+jump mp:3
+
+armor:Hardened(Inner Sphere)
+LA armor:34
+RA armor:34
+LT armor:32
+RT armor:32
+CT armor:47
+HD armor:9
+LL armor:42
+RL armor:42
+RTL armor:10
+RTR armor:10
+RTC armor:15
+
+Weapons:6
+Anti-Missile System, Center Torso
+ER PPC, Left Torso
+Medium Pulse Laser, Left Torso
+Medium Pulse Laser, Left Torso
+Flamer, Head
+Large Pulse Laser, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+IS Endo-Composite
+IS Endo-Composite
+IS Endo-Composite
+IS Endo-Composite
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+Triple Strength Myomer
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Hatchet
+Hatchet
+Hatchet
+Hatchet
+Hatchet
+Hatchet
+Hatchet
+Triple Strength Myomer
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLERPPC
+CLERPPC
+CLLargePulseLaser
+CLLargePulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+IS Endo-Composite
+Jump Jet
+Triple Strength Myomer
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISGuardianECMSuite
+ISGuardianECMSuite
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+Jump Jet
+Jump Jet
+Triple Strength Myomer
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISAntiMissileSystem
+ISAMS Ammo
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLFlamer
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Triple Strength Myomer
+IS Endo-Composite
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Triple Strength Myomer
+IS Endo-Composite
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

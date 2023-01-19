@@ -1,0 +1,72 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Infantry
+</UnitType>
+
+<Name>
+Foot Platoon
+</Name>
+
+<Model>
+Ph (Laser Rifle (Mauser IIC IAS))
+</Model>
+
+<year>
+3071
+</year>
+
+<originalBuildYear>
+3071
+</originalBuildYear>
+
+<type>
+Clan Level 2
+</type>
+
+<motion_type>
+Leg
+</motion_type>
+
+<transporters>
+</transporters>
+
+<Field Guns Equipment>
+</Field Guns Equipment>
+
+<source>
+Total Warfare - Succession Wars
+</source>
+
+<squad_size>
+5
+</squad_size>
+
+<squadn>
+5
+</squadn>
+
+<Primary>
+Laser Rifle (Mauser IIC IAS)
+</Primary>
+
+<antimek>
+8
+</antimek>
+
+<armorKit>
+Clan Armor Kit (All)
+</armorKit>
+
+<armordivisor>
+2.0
+</armordivisor>
+

@@ -1,0 +1,104 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Brutus Assault Tank
+</Name>
+
+<Model>
+IS-Ph Mk V
+</Model>
+
+<year>
+3068
+</year>
+
+<originalBuildYear>
+3068
+</originalBuildYear>
+
+<type>
+IS Level 4
+</type>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<transporters>
+</transporters>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<engine_type>
+0
+</engine_type>
+
+<armor_type>
+4
+</armor_type>
+
+<armor_tech>
+7
+</armor_tech>
+
+<armor>
+33
+24
+24
+19
+24
+</armor>
+
+<Body Equipment>
+ISCASE
+SponsonTurret
+IS Ammo MML-3 LRM
+IS Ammo MML-3 SRM
+IS Ammo MML-3 SRM Smoke
+IS Ammo LRM-20
+IS Ammo LRM-20
+IS Ammo LRM-20
+IS Ammo LRM-20
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+ISMML3(ST)
+</Right Equipment>
+
+<Left Equipment>
+ISMML3(ST)
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+LRM 20
+LRM 20
+</Turret Equipment>
+
+<source>
+PhoenixHeart
+</source>
+
+<tonnage>
+75.0
+</tonnage>
+

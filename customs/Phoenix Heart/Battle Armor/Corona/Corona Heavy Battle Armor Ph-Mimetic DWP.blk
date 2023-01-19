@@ -1,0 +1,104 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+BattleArmor
+</UnitType>
+
+<Name>
+Corona Heavy Battle Armor
+</Name>
+
+<Model>
+Ph-Mimetic DWP
+</Model>
+
+<year>
+3150
+</year>
+
+<originalBuildYear>
+3150
+</originalBuildYear>
+
+<type>
+Mixed (Clan Chassis) Experimental
+</type>
+
+<motion_type>
+Leg
+</motion_type>
+
+<transporters>
+</transporters>
+
+<cruiseMP>
+2
+</cruiseMP>
+
+<armor_type>
+36
+</armor_type>
+
+<armor_tech>
+1
+</armor_tech>
+
+<Point Equipment>
+ISDetachableWeaponPack:Body
+BAAPMount:RA
+Laser Rifle (Mauser IIC IAS):APM
+BABattleClaw:LA
+BA Mimetic:Body
+BA Mimetic:Body
+BA Mimetic:Body
+BA Mimetic:RA
+BA Mimetic:RA
+BA Mimetic:LA
+BA Mimetic:LA
+BACLERMediumPulseLaser:DWP
+BABasicManipulator:RA
+</Point Equipment>
+
+<Trooper 1 Equipment>
+</Trooper 1 Equipment>
+
+<Trooper 2 Equipment>
+</Trooper 2 Equipment>
+
+<Trooper 3 Equipment>
+</Trooper 3 Equipment>
+
+<Trooper 4 Equipment>
+</Trooper 4 Equipment>
+
+<Trooper 5 Equipment>
+</Trooper 5 Equipment>
+
+<chassis>
+biped
+</chassis>
+
+<jumpingMP>
+0
+</jumpingMP>
+
+<armor>
+8
+</armor>
+
+<Trooper Count>
+5
+</Trooper Count>
+
+<weightclass>
+3
+</weightclass>
+

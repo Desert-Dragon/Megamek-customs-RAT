@@ -1,0 +1,120 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Aero
+</UnitType>
+
+<Name>
+Deathstalker
+</Name>
+
+<Model>
+XF-78 C-Ph MPL
+</Model>
+
+<year>
+3071
+</year>
+
+<originalBuildYear>
+3071
+</originalBuildYear>
+
+<type>
+Mixed (IS Chassis) Experimental
+</type>
+
+<motion_type>
+Aerodyne
+</motion_type>
+
+<transporters>
+</transporters>
+
+<SafeThrust>
+5
+</SafeThrust>
+
+<cockpit_type>
+0
+</cockpit_type>
+
+<heatsinks>
+24
+</heatsinks>
+
+<sink_type>
+1
+</sink_type>
+
+<fuel>
+640
+</fuel>
+
+<engine_type>
+2
+</engine_type>
+
+<armor_type>
+22
+</armor_type>
+
+<armor_tech>
+7
+</armor_tech>
+
+<armor>
+101
+100
+100
+91
+</armor>
+
+<Nose Equipment>
+ISCASEII
+ISGuardianECMSuite
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+</Nose Equipment>
+
+<Left Wing Equipment>
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+</Left Wing Equipment>
+
+<Right Wing Equipment>
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+</Right Wing Equipment>
+
+<Aft Equipment>
+IS Vehicular Stealth
+</Aft Equipment>
+
+<Wings Equipment>
+</Wings Equipment>
+
+<Fuselage Equipment>
+</Fuselage Equipment>
+
+<source>
+XTRO Phantoms - Jihad
+</source>
+
+<tonnage>
+80.0
+</tonnage>
+

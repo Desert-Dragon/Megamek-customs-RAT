@@ -1,0 +1,107 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Kelswa Assault Tank
+</Name>
+
+<Model>
+C-Ph Gauss Mk I
+</Model>
+
+<year>
+3105
+</year>
+
+<originalBuildYear>
+3105
+</originalBuildYear>
+
+<type>
+Mixed (IS Chassis) Experimental
+</type>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<transporters>
+</transporters>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<engine_type>
+2
+</engine_type>
+
+<armor_type>
+22
+</armor_type>
+
+<armor_tech>
+1
+</armor_tech>
+
+<armor>
+66
+52
+52
+42
+52
+</armor>
+
+<Body Equipment>
+IS Vehicular Stealth
+ISCASE
+SponsonTurret
+Clan Ammo SRM-4 (Clan) Smoke
+Clan Gauss Ammo
+Clan Gauss Ammo
+Clan Gauss Ammo
+Clan Gauss Ammo
+Clan Gauss Ammo
+CLECMSuite
+ISC3SlaveUnit
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+CLSRM4(ST)
+</Right Equipment>
+
+<Left Equipment>
+CLSRM4(ST)
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+CLGaussRifle
+CLGaussRifle
+CLGaussRifle
+</Turret Equipment>
+
+<source>
+PhoenixHeart
+</source>
+
+<tonnage>
+95.0
+</tonnage>
+

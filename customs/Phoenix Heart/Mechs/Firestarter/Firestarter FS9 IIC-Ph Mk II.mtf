@@ -1,0 +1,155 @@
+Version:1.0
+Firestarter
+FS9 IIC-Ph Mk II
+
+Config:Biped Omnimech
+techbase:Mixed (IS Chassis)
+era:3069
+source:TRO 3058 - Clan Invasion
+rules level:4
+
+mass:45
+engine:270 XL Engine(IS)
+structure:IS Endo Steel
+myomer:Standard
+
+heat sinks:13 Clan Double
+base chassis heat sinks:10
+walk mp:6
+jump mp:6
+
+armor:Standard(Inner Sphere)
+LA armor:12
+RA armor:12
+LT armor:16
+RT armor:16
+CT armor:20
+HD armor:9
+LL armor:16
+RL armor:16
+RTL armor:6
+RTR armor:6
+RTC armor:7
+
+Weapons:7
+Medium Pulse Laser, Left Arm
+Medium Pulse Laser, Left Arm
+Medium Pulse Laser, Left Arm
+Medium Pulse Laser, Right Arm
+Medium Pulse Laser, Right Arm
+TAG, Center Torso
+Anti-Missile System, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLMediumPulseLaser (OMNIPOD)
+CLMediumPulseLaser (OMNIPOD)
+CLMediumPulseLaser (OMNIPOD)
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLMediumPulseLaser (OMNIPOD)
+CLMediumPulseLaser (OMNIPOD)
+ISAMS Ammo (OMNIPOD)
+ISAntiMissileSystem (OMNIPOD)
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+-Empty-
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLDoubleHeatSink (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+IS Endo Steel
+Jump Jet
+Jump Jet
+Jump Jet
+CLDoubleHeatSink (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+IS Endo Steel
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLDoubleHeatSink (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+IS Endo Steel
+Jump Jet
+Jump Jet
+Jump Jet
+IS Endo Steel
+CLECMSuite (OMNIPOD)
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISTAG (OMNIPOD)
+IS Endo Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+ISC3SlaveUnit (OMNIPOD)
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

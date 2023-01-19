@@ -1,0 +1,117 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+DI Schmitt Tank
+</Name>
+
+<Model>
+C-Ph A5LRM Mk I
+</Model>
+
+<year>
+3115
+</year>
+
+<originalBuildYear>
+3115
+</originalBuildYear>
+
+<type>
+Mixed (IS Chassis) Experimental
+</type>
+
+<motion_type>
+Wheeled
+</motion_type>
+
+<transporters>
+</transporters>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<engine_type>
+2
+</engine_type>
+
+<armor_type>
+4
+</armor_type>
+
+<armor_tech>
+5
+</armor_tech>
+
+<armor>
+38
+30
+30
+24
+30
+</armor>
+
+<Body Equipment>
+ISCASE
+SponsonTurret
+Clan Ammo SRM-4 (Clan) Smoke
+Clan Ammo SRM-4 (Clan) Artemis V-capable
+Clan Ammo LRM-20 (Clan) Artemis V-capable
+Clan Ammo LRM-20 (Clan) Artemis V-capable
+Clan Ammo LRM-20 (Clan) Artemis V-capable
+Clan Ammo LRM-20 (Clan) Artemis V-capable
+ISAngelECMSuite
+Clan Ammo LRM-20 (Clan) Artemis V-capable
+Clan Ammo LRM-20 (Clan) Artemis V-capable
+Clan Ammo LRM-20 (Clan) Artemis V-capable
+Clan Ammo LRM-20 (Clan) Artemis V-capable
+Clan Ammo LRM-20 (Clan) Artemis V-capable
+CLAMS Ammo
+</Body Equipment>
+
+<Front Equipment>
+CLAntiMissileSystem
+</Front Equipment>
+
+<Right Equipment>
+CLArtemisV
+CLSRM4
+</Right Equipment>
+
+<Left Equipment>
+CLArtemisV
+CLSRM4
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+CLLRM20
+CLLRM20
+CLLRM20
+CLArtemisV
+CLArtemisV
+CLArtemisV
+</Turret Equipment>
+
+<source>
+PhoenixHeart
+</source>
+
+<tonnage>
+80.0
+</tonnage>
+

@@ -1,0 +1,156 @@
+Version:1.0
+Shadow Cat
+C-Ph Mk I
+
+Config:Biped Omnimech
+techbase:Mixed (Clan Chassis)
+era:3067
+source:PhoenixHeart
+rules level:4
+
+mass:45
+engine:270 XL (Clan) Engine
+structure:Clan Endo Steel
+myomer:Standard
+
+heat sinks:11 Clan Double
+base chassis heat sinks:10
+walk mp:6
+jump mp:6
+
+armor:Ferro-Fibrous(Clan)
+LA armor:10
+RA armor:10
+LT armor:18
+RT armor:18
+CT armor:20
+HD armor:8
+LL armor:18
+RL armor:18
+RTL armor:4
+RTR armor:4
+RTC armor:6
+
+Weapons:7
+Medium Laser, Left Arm
+Medium Laser, Left Arm
+Medium Laser, Left Arm
+Medium Laser, Right Arm
+Medium Laser, Right Arm
+Medium Laser, Right Arm
+Streak SRM 6, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Medium Laser (OMNIPOD)
+Medium Laser (OMNIPOD)
+Medium Laser (OMNIPOD)
+Clan Ferro-Fibrous
+Clan Ferro-Fibrous
+Clan Ferro-Fibrous
+Clan Ferro-Fibrous
+Clan Ferro-Fibrous
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Medium Laser (OMNIPOD)
+Medium Laser (OMNIPOD)
+Medium Laser (OMNIPOD)
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+Clan Ferro-Fibrous
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+CLPartialWing (OMNIPOD)
+CLPartialWing (OMNIPOD)
+CLPartialWing (OMNIPOD)
+Jump Jet
+WatchdogECMSuite (OMNIPOD)
+WatchdogECMSuite (OMNIPOD)
+CLTargeting Computer (OMNIPOD)
+CLTargeting Computer (OMNIPOD)
+Clan Ferro-Fibrous
+Clan Endo Steel
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+CLPartialWing (OMNIPOD)
+CLPartialWing (OMNIPOD)
+CLPartialWing (OMNIPOD)
+Jump Jet
+CLStreakSRM6 (OMNIPOD)
+CLStreakSRM6 (OMNIPOD)
+Clan Streak SRM 6 Ammo (OMNIPOD)
+Clan Endo Steel
+CLDoubleHeatSink (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLMASC
+CLMASC
+
+Head:
+Life Support
+Sensors
+Cockpit
+Clan Endo Steel
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Jump Jet
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+imagefile:.\data\images\fluff\mech\Shadow_Cat_RGilClan_v09.png
+

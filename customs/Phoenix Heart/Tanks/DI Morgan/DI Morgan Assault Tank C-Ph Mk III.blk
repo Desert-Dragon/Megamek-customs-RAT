@@ -1,0 +1,109 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+DI Morgan Assault Tank
+</Name>
+
+<Model>
+C-Ph Mk III
+</Model>
+
+<year>
+3073
+</year>
+
+<originalBuildYear>
+3073
+</originalBuildYear>
+
+<type>
+Mixed (IS Chassis) Experimental
+</type>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<transporters>
+</transporters>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<engine_type>
+2
+</engine_type>
+
+<armor_type>
+4
+</armor_type>
+
+<armor_tech>
+7
+</armor_tech>
+
+<armor>
+38
+30
+30
+24
+30
+</armor>
+
+<Body Equipment>
+Clan Gauss Ammo
+Clan Gauss Ammo
+Clan Gauss Ammo
+Clan Gauss Ammo
+Clan Ammo SRM-4 (Clan) Smoke
+CLAMS Ammo
+ISCASE
+Clan Ammo SRM-4
+SponsonTurret
+ISAngelECMSuite
+</Body Equipment>
+
+<Front Equipment>
+CLAntiMissileSystem
+</Front Equipment>
+
+<Right Equipment>
+CLSRM4(ST)
+CLAntiMissileSystem(ST)
+</Right Equipment>
+
+<Left Equipment>
+CLSRM4(ST)
+CLAntiMissileSystem(ST)
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+CLGaussRifle
+CLGaussRifle
+CLERPPC
+</Turret Equipment>
+
+<source>
+Jihad
+</source>
+
+<tonnage>
+100.0
+</tonnage>
+

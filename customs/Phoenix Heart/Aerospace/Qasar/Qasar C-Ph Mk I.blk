@@ -1,0 +1,127 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Aero
+</UnitType>
+
+<Name>
+Qasar
+</Name>
+
+<Model>
+C-Ph Mk I
+</Model>
+
+<year>
+3061
+</year>
+
+<originalBuildYear>
+3061
+</originalBuildYear>
+
+<type>
+Clan Level 4
+</type>
+
+<motion_type>
+Aerodyne
+</motion_type>
+
+<transporters>
+</transporters>
+
+<SafeThrust>
+5
+</SafeThrust>
+
+<cockpit_type>
+0
+</cockpit_type>
+
+<heatsinks>
+26
+</heatsinks>
+
+<sink_type>
+1
+</sink_type>
+
+<fuel>
+400
+</fuel>
+
+<engine_type>
+2
+</engine_type>
+
+<armor_type>
+19
+</armor_type>
+
+<armor_tech>
+2
+</armor_tech>
+
+<armor>
+110
+101
+101
+100
+</armor>
+
+<Nose Equipment>
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLAntiMissileSystem
+</Nose Equipment>
+
+<Left Wing Equipment>
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLAntiMissileSystem
+</Left Wing Equipment>
+
+<Right Wing Equipment>
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLMediumPulseLaser
+CLAntiMissileSystem
+</Right Wing Equipment>
+
+<Aft Equipment>
+CLMicroPulseLaser
+CLMicroPulseLaser
+CLMicroPulseLaser
+CLAntiMissileSystem
+</Aft Equipment>
+
+<Wings Equipment>
+</Wings Equipment>
+
+<Fuselage Equipment>
+CLAMS Ammo
+CLCASE
+</Fuselage Equipment>
+
+<source>
+PhoenixHeart
+</source>
+
+<tonnage>
+80.0
+</tonnage>
+

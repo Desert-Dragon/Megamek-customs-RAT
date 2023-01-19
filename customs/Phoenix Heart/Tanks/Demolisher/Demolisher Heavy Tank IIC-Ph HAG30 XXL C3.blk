@@ -1,0 +1,110 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Demolisher Heavy Tank
+</Name>
+
+<Model>
+IIC-Ph HAG30 XXL C3
+</Model>
+
+<year>
+3070
+</year>
+
+<originalBuildYear>
+3070
+</originalBuildYear>
+
+<type>
+Mixed (Clan Chassis) Experimental
+</type>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<transporters>
+</transporters>
+
+<cruiseMP>
+3
+</cruiseMP>
+
+<engine_type>
+3
+</engine_type>
+
+<clan_engine>
+false
+</clan_engine>
+
+<armor_type>
+6
+</armor_type>
+
+<armor_tech>
+1
+</armor_tech>
+
+<armor>
+66
+53
+53
+42
+53
+</armor>
+
+<Body Equipment>
+ISC3SlaveUnit
+CLArmoredMotiveSystem
+Hyper-Assault Gauss Rifle/30 Ammo
+Hyper-Assault Gauss Rifle/30 Ammo
+Hyper-Assault Gauss Rifle/30 Ammo
+Hyper-Assault Gauss Rifle/30 Ammo
+Hyper-Assault Gauss Rifle/30 Ammo
+Hyper-Assault Gauss Rifle/30 Ammo
+CLAMS Ammo
+Clan Ammo SRM-4 (Clan) Smoke
+</Body Equipment>
+
+<Front Equipment>
+CLAntiMissileSystem
+</Front Equipment>
+
+<Right Equipment>
+CLSRM4
+</Right Equipment>
+
+<Left Equipment>
+CLSRM4
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+CLHAG30
+CLHAG30
+</Turret Equipment>
+
+<source>
+TRO 3039 - Succession Wars
+</source>
+
+<tonnage>
+80.0
+</tonnage>
+

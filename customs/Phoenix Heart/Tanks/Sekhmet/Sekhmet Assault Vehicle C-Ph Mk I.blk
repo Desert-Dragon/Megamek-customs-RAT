@@ -1,0 +1,106 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Tank
+</UnitType>
+
+<Name>
+Sekhmet Assault Vehicle
+</Name>
+
+<Model>
+C-Ph Mk I
+</Model>
+
+<mul id:>
+6384
+</mul id:>
+
+<year>
+3151
+</year>
+
+<originalBuildYear>
+3151
+</originalBuildYear>
+
+<type>
+Clan Level 4
+</type>
+
+<motion_type>
+Tracked
+</motion_type>
+
+<transporters>
+</transporters>
+
+<cruiseMP>
+4
+</cruiseMP>
+
+<engine_type>
+2
+</engine_type>
+
+<armor_type>
+1
+</armor_type>
+
+<armor_tech>
+2
+</armor_tech>
+
+<armor>
+65
+51
+51
+41
+51
+</armor>
+
+<Body Equipment>
+CLAPGaussRifle Ammo
+SponsonTurret
+Clan Ammo SRM-4 (Clan) Smoke
+Clan Ammo SRM-4
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+CLAPGaussRifle(ST)
+CLSRM4(ST)
+</Right Equipment>
+
+<Left Equipment>
+CLAPGaussRifle(ST)
+CLSRM4(ST)
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Turret Equipment>
+CLLargePulseLaser
+CLLargePulseLaser
+CLSRM4
+</Turret Equipment>
+
+<source>
+TRO 3145 Draconis Combine - Late Republic
+</source>
+
+<tonnage>
+65.0
+</tonnage>
+

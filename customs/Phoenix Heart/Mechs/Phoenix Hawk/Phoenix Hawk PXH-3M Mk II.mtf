@@ -1,0 +1,156 @@
+Version:1.0
+Phoenix Hawk
+PXH-3M Mk II
+
+Config:Biped
+techbase:Mixed (IS Chassis)
+era:3058
+source:Rec Guide:ilClan #11 - Late Succession Wars
+rules level:3
+
+mass:45
+engine:270 XL Engine(IS)
+structure:IS Endo Steel
+myomer:Standard
+
+heat sinks:12 IS Double
+walk mp:6
+jump mp:6
+
+armor:Standard(Inner Sphere)
+LA armor:14
+RA armor:14
+LT armor:17
+RT armor:17
+CT armor:21
+HD armor:9
+LL armor:22
+RL armor:22
+RTL armor:5
+RTR armor:5
+RTC armor:6
+
+Weapons:9
+Medium Pulse Laser, Left Arm
+Machine Gun, Left Arm
+ER Large Laser, Right Arm
+Medium Pulse Laser, Right Arm
+Anti-Missile System, Right Arm
+ER Small Laser, Left Arm
+ER Small Laser, Left Arm
+ER Small Laser, Right Arm
+ER Small Laser, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLERSmallLaser
+CLERSmallLaser
+ISMediumPulseLaser
+Machine Gun
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+ISERLargeLaser
+ISERLargeLaser
+ISMediumPulseLaser
+ISAntiMissileSystem
+CLERSmallLaser
+CLERSmallLaser
+IS Endo Steel
+IS Endo Steel
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Jump Jet
+Jump Jet
+Jump Jet
+ISAMS Ammo
+IS Endo Steel
+IS Ammo MG - Full
+ISCASE
+IS Endo Steel
+IS Endo Steel
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Jump Jet
+Jump Jet
+Jump Jet
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+IS Endo Steel
+IS Endo Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Endo Steel
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Endo Steel
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

@@ -1,0 +1,153 @@
+Version:1.0
+King Crab
+KGC-010 C-Ph
+
+Config:Biped
+techbase:Mixed (Clan Chassis)
+era:3060
+source:TRO 3039 - Star League
+rules level:4
+
+mass:100
+engine:300 XL (Clan) Engine
+structure:IS Standard
+myomer:Standard
+
+heat sinks:22 Clan Double
+walk mp:3
+jump mp:0
+
+armor:Standard(Inner Sphere)
+LA armor:32
+RA armor:32
+LT armor:32
+RT armor:32
+CT armor:45
+HD armor:9
+LL armor:40
+RL armor:40
+RTL armor:10
+RTR armor:10
+RTC armor:14
+
+Weapons:6
+ER PPC, Right Torso
+ER PPC, Left Torso
+LB 10-X AC, Right Arm
+LB 10-X AC, Left Arm
+Streak SRM 6, Right Torso
+Streak SRM 6, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLLBXAC10
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+CLERPPC
+CLERPPC
+CLStreakSRM6
+CLStreakSRM6
+Clan LB 10-X AC Ammo
+Clan LB 10-X Cluster Ammo
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+CLERPPC
+CLERPPC
+CLStreakSRM6
+CLStreakSRM6
+Clan LB 10-X AC Ammo
+Clan LB 10-X Cluster Ammo
+Clan Streak SRM 6 Ammo
+Clan Streak SRM 6 Ammo
+CLDoubleHeatSink
+CLDoubleHeatSink
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLDoubleHeatSink
+CLDoubleHeatSink
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

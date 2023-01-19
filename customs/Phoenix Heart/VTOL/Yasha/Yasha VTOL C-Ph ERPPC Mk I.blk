@@ -1,0 +1,97 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+VTOL
+</UnitType>
+
+<Name>
+Yasha VTOL
+</Name>
+
+<Model>
+C-Ph ERPPC Mk I
+</Model>
+
+<year>
+3152
+</year>
+
+<originalBuildYear>
+3152
+</originalBuildYear>
+
+<type>
+Mixed (IS Chassis) Experimental
+</type>
+
+<motion_type>
+VTOL
+</motion_type>
+
+<transporters>
+</transporters>
+
+<cruiseMP>
+9
+</cruiseMP>
+
+<engine_type>
+2
+</engine_type>
+
+<armor_type>
+16
+</armor_type>
+
+<armor_tech>
+6
+</armor_tech>
+
+<armor>
+13
+12
+12
+12
+2
+12
+</armor>
+
+<Body Equipment>
+CLTargeting Computer
+</Body Equipment>
+
+<Front Equipment>
+</Front Equipment>
+
+<Right Equipment>
+</Right Equipment>
+
+<Left Equipment>
+</Left Equipment>
+
+<Rear Equipment>
+</Rear Equipment>
+
+<Rotor Equipment>
+</Rotor Equipment>
+
+<Turret Equipment>
+CLERPPC
+</Turret Equipment>
+
+<source>
+Dark Age
+</source>
+
+<tonnage>
+30.0
+</tonnage>
+

@@ -1,0 +1,154 @@
+Version:1.0
+Hauptmann
+HA1-O-Ph
+
+Config:Biped Omnimech
+techbase:Mixed (IS Chassis)
+era:3073
+source:TRO 3060
+rules level:4
+
+mass:95
+engine:285 Fusion Engine(IS)
+structure:IS Standard
+myomer:Standard
+
+heat sinks:18 Clan Double
+base chassis heat sinks:11
+walk mp:3
+jump mp:0
+
+armor:Standard(Inner Sphere)
+LA armor:32
+RA armor:32
+LT armor:30
+RT armor:30
+CT armor:45
+HD armor:9
+LL armor:40
+RL armor:40
+RTL armor:10
+RTR armor:10
+RTC armor:15
+
+Weapons:6
+LB 20-X AC, Left Torso
+SRM 6, Right Torso
+Medium Pulse Laser, Left Arm
+Medium Pulse Laser, Right Arm
+Large Pulse Laser, Left Arm
+Large Pulse Laser, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLLargePulseLaser (OMNIPOD)
+CLLargePulseLaser (OMNIPOD)
+CLMediumPulseLaser (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLLargePulseLaser (OMNIPOD)
+CLLargePulseLaser (OMNIPOD)
+CLMediumPulseLaser (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+-Empty-
+-Empty-
+
+Left Torso:
+CLLBXAC20 (OMNIPOD)
+CLLBXAC20 (OMNIPOD)
+CLLBXAC20 (OMNIPOD)
+CLLBXAC20 (OMNIPOD)
+CLLBXAC20 (OMNIPOD)
+CLLBXAC20 (OMNIPOD)
+CLLBXAC20 (OMNIPOD)
+CLLBXAC20 (OMNIPOD)
+CLLBXAC20 (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+-Empty-
+
+Right Torso:
+CLSRM6 (OMNIPOD)
+Clan Ammo SRM-6 (Clan) Inferno (OMNIPOD)
+Clan Ammo SRM-6 (OMNIPOD)
+Clan LB 20-X AC Ammo (OMNIPOD)
+Clan LB 20-X AC Ammo (OMNIPOD)
+Clan LB 20-X Cluster Ammo (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+CLDoubleHeatSink (OMNIPOD)
+ISCASE
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISGuardianECMSuite (OMNIPOD)
+ISGuardianECMSuite (OMNIPOD)
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

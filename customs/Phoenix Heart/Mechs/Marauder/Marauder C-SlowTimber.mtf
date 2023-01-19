@@ -1,0 +1,155 @@
+Version:1.0
+Marauder
+C-SlowTimber
+
+Config:Biped
+techbase:Mixed (Clan Chassis)
+era:3075
+source:Clan Invasion
+rules level:4
+
+mass:75
+engine:300 XL (Clan) Engine
+structure:Clan Endo Steel
+myomer:Standard
+
+heat sinks:20 Clan Double
+walk mp:4
+jump mp:0
+
+armor:Standard(Inner Sphere)
+LA armor:24
+RA armor:24
+LT armor:24
+RT armor:24
+CT armor:35
+HD armor:9
+LL armor:32
+RL armor:32
+RTL armor:8
+RTR armor:8
+RTC armor:11
+
+Weapons:8
+Medium Pulse Laser, Right Arm
+Medium Pulse Laser, Left Arm
+Medium Pulse Laser, Left Torso
+ATM 12, Right Torso
+ATM 12, Left Torso
+Small Pulse Laser, Head
+Medium Pulse Laser, Right Arm
+Medium Pulse Laser, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLMediumPulseLaser
+CLMediumPulseLaser
+Clan Endo Steel
+Clan Endo Steel
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+Clan Ammo ATM-12
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+CLMediumPulseLaser
+CLMediumPulseLaser
+Clan Endo Steel
+Clan Endo Steel
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+Clan Endo Steel
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLMediumPulseLaser
+CLDoubleHeatSink
+CLDoubleHeatSink
+Clan Ammo ATM-12
+Clan Ammo ATM-12 HE
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLATM12
+CLDoubleHeatSink
+CLDoubleHeatSink
+Clan Endo Steel
+Clan Ammo ATM-12 ER
+Clan Ammo ATM-12 HE
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+CLECMSuite
+Clan Endo Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+CLSmallPulseLaser
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+CLDoubleHeatSink
+CLDoubleHeatSink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

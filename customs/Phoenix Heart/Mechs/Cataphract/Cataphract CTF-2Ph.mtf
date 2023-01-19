@@ -1,0 +1,152 @@
+Version:1.0
+Cataphract
+CTF-2Ph
+
+Config:Biped
+techbase:Mixed (IS Chassis)
+era:3068
+source:TRO 3039 - Succession Wars
+rules level:5
+
+mass:70
+engine:280 Fusion Engine(IS)
+structure:IS Endo Steel
+myomer:Standard
+
+heat sinks:11 IS Double
+walk mp:4
+jump mp:4
+
+armor:Hardened(Inner Sphere)
+LA armor:12
+RA armor:12
+LT armor:14
+RT armor:14
+CT armor:19
+HD armor:9
+LL armor:17
+RL armor:17
+RTL armor:4
+RTR armor:4
+RTC armor:6
+
+Weapons:5
+Medium Laser, Left Torso
+AC/10, Right Torso
+Medium Laser, Right Torso
+SRM 6, Left Arm
+Medium Laser, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+CLArtemisIV
+CLSRM6
+Clan Ammo SRM-6 (Clan) Inferno
+Clan Ammo SRM-6 (Clan) Artemis-capable
+ISCASEII
+IS Endo Steel
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Medium Laser
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+-Empty-
+
+Left Torso:
+Medium Laser
+IS Ammo AC/10
+IS Ammo AC/10
+ISCASEII
+Jump Jet
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Autocannon/10
+Autocannon/10
+Autocannon/10
+Autocannon/10
+Autocannon/10
+Autocannon/10
+Autocannon/10
+Medium Laser
+Jump Jet
+Jump Jet
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+IS Endo Steel
+IS Endo Steel
+
+Head:
+Life Support
+Sensors
+Cockpit
+IS Endo Steel
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Endo Steel
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

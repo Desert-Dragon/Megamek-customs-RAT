@@ -1,0 +1,150 @@
+Version:1.1
+Locust
+IIC-Ph Spotter
+
+Config:Biped
+techbase:Mixed (Clan Chassis)
+era:3070
+source:Rec Guide:ilClan #16 - Clan Invasion
+rules level:4
+
+mass:20
+engine:320 XXL (Clan) Engine
+structure:Clan Endo Steel
+myomer:Standard
+cockpit:Standard Cockpit
+gyro:XL Gyro
+
+heat sinks:10 Clan Double
+walk mp:16
+jump mp:0
+
+armor:Stealth(Inner Sphere)
+LA armor:0
+RA armor:5
+LT armor:4
+RT armor:6
+CT armor:8
+HD armor:9
+LL armor:3
+RL armor:3
+RTL armor:1
+RTR armor:1
+RTC armor:0
+
+Weapons:1
+TAG (Clan), Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+IS Stealth
+IS Stealth
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+IS Stealth
+IS Stealth
+CLTAG
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Fusion Engine
+IS Stealth
+IS Stealth
+CLMASC
+Clan Endo Steel
+Clan Endo Steel
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Fusion Engine
+IS Stealth
+IS Stealth
+CLECMSuite
+Supercharger
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+Clan Endo Steel
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+
+Head:
+Life Support
+Sensors
+Cockpit
+Clan Endo Steel
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Stealth
+IS Stealth
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Stealth
+IS Stealth
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+
