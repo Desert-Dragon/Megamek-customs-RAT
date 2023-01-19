@@ -1,48 +1,55 @@
-Version:1.2
-Sparrow
-SP-1
+Version:1.1
+Vapor Eagle
+LAM
 
 Config:LAM
 techbase:Mixed (IS Chassis)
-era:3062
-rules level:4
+era:3057
+source:Myself
+rules level:5
 
-mass:25
-engine:150 Fusion Engine(IS)
+mass:55
+engine:220 Fusion Engine(IS)
 structure:IS Standard
 myomer:Standard
 lam:Standard
-ejection:Full Head Ejection System
+cockpit:Standard Cockpit
+gyro:Compact Gyro
 
-heat sinks:10 Clan Double
-walk mp:6
-jump mp:6
+heat sinks:12 Clan Double
+walk mp:4
+jump mp:3
 
 armor:Standard(Inner Sphere)
-LA armor:3
-RA armor:3
-LT armor:7
-RT armor:7
-CT armor:6
+LA armor:15
+RA armor:15
+LT armor:20
+RT armor:20
+CT armor:26
 HD armor:9
-LL armor:5
-RL armor:5
-RTL armor:1
-RTR armor:1
-RTC armor:1
+LL armor:22
+RL armor:22
+RTL armor:3
+RTR armor:3
+RTC armor:5
 
-Weapons:1
+Weapons:6
+ER Medium Laser, Left Arm
 ER Medium Laser, Right Arm
+ER Medium Laser, Right Arm
+Streak SRM 6, Left Arm
+Streak SRM 6, Right Arm
+Laser AMS, Left Torso
 
 Left Arm:
 Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
--Empty-
--Empty-
--Empty-
--Empty-
+CLStreakSRM6
+CLStreakSRM6
+CLERMediumLaser
+Clan Streak SRM 6 Ammo
 -Empty-
 -Empty-
 -Empty-
@@ -53,11 +60,11 @@ Shoulder
 Upper Arm Actuator
 Lower Arm Actuator
 Hand Actuator
+CLStreakSRM6
+CLStreakSRM6
 CLERMediumLaser
--Empty-
--Empty-
--Empty-
--Empty-
+CLERMediumLaser
+Clan Streak SRM 6 Ammo
 -Empty-
 -Empty-
 -Empty-
@@ -65,13 +72,13 @@ CLERMediumLaser
 Left Torso:
 Landing Gear
 Avionics
+CLLaserAntiMissileSystem
 CLDoubleHeatSink
 CLDoubleHeatSink
-Jump Jet
-Jump Jet
-Jump Jet
-CLActiveProbe
--Empty-
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
+CLDoubleHeatSink
 -Empty-
 -Empty-
 -Empty-
@@ -79,11 +86,11 @@ CLActiveProbe
 Right Torso:
 Landing Gear
 Avionics
+Searchlight
 CLDoubleHeatSink
 CLDoubleHeatSink
-Jump Jet
-Jump Jet
-Jump Jet
+-Empty-
+-Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -96,13 +103,13 @@ Fusion Engine
 Fusion Engine
 Gyro
 Gyro
-Gyro
-Gyro
 Fusion Engine
 Fusion Engine
 Fusion Engine
 Landing Gear
-LAM Fuel Tank
+-Empty-
+-Empty-
+-Empty-
 
 Head:
 Life Support
@@ -123,8 +130,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-CLDoubleHeatSink
-CLDoubleHeatSink
+Jump Jet
+-Empty-
 -Empty-
 -Empty-
 -Empty-
@@ -137,8 +144,8 @@ Hip
 Upper Leg Actuator
 Lower Leg Actuator
 Foot Actuator
-CLDoubleHeatSink
-CLDoubleHeatSink
+Jump Jet
+Jump Jet
 -Empty-
 -Empty-
 -Empty-
