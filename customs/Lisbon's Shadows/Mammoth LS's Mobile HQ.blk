@@ -1,0 +1,259 @@
+#building block data file
+<BlockVersion>
+1
+</BlockVersion>
+
+##Write the version number just in case...
+<Version>
+MAM0
+</Version>
+
+<UnitType>
+Dropship
+</UnitType>
+
+<Name>
+Mammoth
+</Name>
+
+<Model>
+LS's Mobile HQ
+</Model>
+
+<year>
+3032
+</year>
+
+<originalBuildYear>
+2658
+</originalBuildYear>
+
+<type>
+IS Level 4
+</type>
+
+<motion_type>
+Spheroid
+</motion_type>
+
+<transporters>
+smallcraftbay:24.0:1:1
+asfbay:24.0:2:4
+heavyvehiclebay:20.0:1:5
+lightvehiclebay:24.0:1:6
+2ndclassquarters:0.0:0
+1stclassquarters:80.0:0
+crewquarters:616.0:0
+mechbay:85.0:2
+cargobay:5815.5:1:10
+cargobay:5816.0:1:9
+</transporters>
+
+<SafeThrust>
+3
+</SafeThrust>
+
+<heatsinks>
+340
+</heatsinks>
+
+<sink_type>
+0
+</sink_type>
+
+<fuel>
+4200
+</fuel>
+
+<engine_type>
+1
+</engine_type>
+
+<armor_type>
+41
+</armor_type>
+
+<armor_tech>
+1
+</armor_tech>
+
+<armor>
+200
+195
+195
+230
+</armor>
+
+<Nose Equipment>
+(B) ISSniper
+ISSniper
+ISSniperAmmo:80
+(B) LRM 20
+LRM 20
+IS Ammo LRM-20:36
+(B) Autocannon/5
+Autocannon/5
+IS Ammo AC/5:40
+(B) Large Laser
+Large Laser
+Medium Laser
+Medium Laser
+(B) PPC
+PPC
+Searchlight
+</Nose Equipment>
+
+<Left Side Equipment>
+(R) (B) Medium Laser
+(R) Medium Laser
+(R) Large Laser
+(R) (B) SRM 6
+(R) SRM 6
+(R) IS Ammo SRM-6:30
+(B) SRM 6
+SRM 6
+IS Ammo SRM-6:30
+(B) Small Laser
+Small Laser
+Flamer
+(R) (B) Small Laser
+(R) Small Laser
+(R) Flamer
+(B) LRM 20
+IS Ammo LRM-20:18
+(R) (B) LRM 20
+(R) IS Ammo LRM-20:18
+(B) Autocannon/10
+Autocannon/5
+IS Ammo AC/10:10
+IS Ammo AC/5:20
+(R) (B) Autocannon/10
+(R) Autocannon/5
+(R) IS Ammo AC/10:10
+(R) IS Ammo AC/5:20
+(B) Large Laser
+Medium Laser
+Medium Laser
+(B) PPC
+(R) (B) PPC
+</Left Side Equipment>
+
+<Right Side Equipment>
+(R) (B) Medium Laser
+(R) Medium Laser
+(R) Large Laser
+(R) (B) SRM 6
+(R) SRM 6
+(R) IS Ammo SRM-6:30
+(B) SRM 6
+SRM 6
+IS Ammo SRM-6:30
+(B) Small Laser
+Small Laser
+Flamer
+(R) (B) Small Laser
+(R) Small Laser
+(R) Flamer
+(B) LRM 20
+IS Ammo LRM-20:18
+(R) (B) LRM 20
+(R) IS Ammo LRM-20:18
+(B) Autocannon/10
+Autocannon/5
+IS Ammo AC/10:10
+IS Ammo AC/5:20
+(R) (B) Autocannon/10
+(R) Autocannon/5
+(R) IS Ammo AC/10:10
+(R) IS Ammo AC/5:20
+(B) Large Laser
+Medium Laser
+Medium Laser
+(B) PPC
+(R) (B) PPC
+</Right Side Equipment>
+
+<Aft Equipment>
+(B) Small Laser
+Small Laser
+Small Laser
+Small Laser
+Flamer
+Flamer
+(B) SRM 6
+SRM 6
+IS Ammo SRM-6:30
+(B) Autocannon/10
+Autocannon/10
+IS Ammo AC/10:20
+(B) Medium Laser
+Medium Laser
+Medium Laser
+Medium Laser
+(B) PPC
+PPC
+</Aft Equipment>
+
+<Hull Equipment>
+MASH Equipment:SIZE:1.0
+Communications Equipment:SIZE:1.0
+ISElectronicWarfareEquipment
+Searchlight
+</Hull Equipment>
+
+<structural_integrity>
+25
+</structural_integrity>
+
+<imagepath>
+.\data\images\fluff\Space\Mammoth.gif
+</imagepath>
+
+<source>
+TRO 3057R - Star League
+</source>
+
+<tonnage>
+50500.0
+</tonnage>
+
+<designtype>
+1
+</designtype>
+
+<crew>
+686
+</crew>
+
+<officers>
+8
+</officers>
+
+<gunners>
+13
+</gunners>
+
+<passengers>
+0
+</passengers>
+
+<marines>
+24
+</marines>
+
+<battlearmor>
+4
+</battlearmor>
+
+<otherpassenger>
+0
+</otherpassenger>
+
+<life_boat>
+0
+</life_boat>
+
+<escape_pod>
+6
+</escape_pod>
+

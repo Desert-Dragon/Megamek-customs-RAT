@@ -1,0 +1,151 @@
+Version:1.0
+Phoenix Hawk
+PXH-1h
+
+Config:Biped
+techbase:Inner Sphere
+era:3030
+source:TRO 3039 - Age of War
+rules level:1
+
+mass:45
+engine:270 Fusion Engine(IS)
+structure:IS Standard
+myomer:Standard
+
+heat sinks:11 Single
+walk mp:6
+jump mp:5
+
+armor:Standard(Inner Sphere)
+LA armor:12
+RA armor:12
+LT armor:18
+RT armor:18
+CT armor:23
+HD armor:8
+LL armor:16
+RL armor:16
+RTL armor:4
+RTR armor:4
+RTC armor:5
+
+Weapons:4
+Medium Laser, Left Arm
+Machine Gun, Left Arm
+Large Laser, Right Arm
+Medium Laser, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Medium Laser
+Machine Gun
+IS Machine Gun Ammo - Half
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Large Laser
+Large Laser
+Medium Laser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Jump Jet
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Jump Jet
+Jump Jet
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Heat Sink
+Jump Jet
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+
